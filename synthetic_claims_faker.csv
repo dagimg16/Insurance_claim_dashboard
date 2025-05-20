@@ -1,0 +1,1001 @@
+claim_id,policy_start,incident_date,claim_amount,state,vehicle_type,incident_type,fact_of_loss,reported_by,policy_limit,insured_age,prior_claims_count,fraud_flag,severity_score
+PL2U5CFP3,2023-01-04,2024-01-01,10556.23,WA,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,18,0,0,0.7
+P6MPB4DPG,2024-04-11,2024-09-26,5721.65,WA,Van,Side-impact,V2 turned left and struck the side of V1,claimant,15000,73,5,0,0.38
+6X3B9KYHK,2024-09-01,2025-07-07,14030.5,FL,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,63,5,0,0.94
+BW9KCKWDH,2024-06-09,2024-09-26,1042.06,GA,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,40,1,0,0.07
+FNCC8UUXO,2023-11-06,2024-09-21,24036.26,VT,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,25000,40,2,1,0.96
+269SYE6HG,2023-10-17,2023-11-21,8654.29,AK,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,63,3,0,0.58
+N4FLHW3CH,2024-09-22,2025-07-21,43232.51,AK,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,19,0,1,0.86
+GCG8ZF2L4,2024-09-09,2025-01-22,22572.25,KY,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,29,2,1,0.9
+IW8UOJA5E,2023-12-25,2024-01-15,10004.11,AK,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,75,3,0,0.67
+M5U2TLUGG,2024-04-25,2024-12-13,20069.88,IL,Coupe,Theft,V1 was missing after being parked overnight,claimant,25000,57,0,1,0.8
+25FNSCQQA,2023-09-30,2024-05-08,9206.87,AL,SUV,Side-impact,V2 turned left and struck the side of V1,insured,50000,20,1,0,0.18
+GP8D20GM6,2023-03-08,2023-03-13,12338.91,DC,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,69,2,0,0.12
+DEPTLT05U,2023-05-24,2024-03-17,72556.15,UT,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,61,2,0,0.73
+7R1Z4C9VF,2024-10-23,2025-01-21,6344.08,VI,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,51,0,0,0.42
+G1FBTWTW4,2024-01-03,2024-04-05,17253.24,CO,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,50000,74,2,0,0.35
+X0740C98U,2023-05-16,2024-04-24,2419.83,KY,SUV,Theft,V1 was missing after being parked overnight,claimant,25000,23,2,1,0.1
+BHB7ZHEZR,2024-02-16,2025-02-13,10423.77,WA,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,65,5,0,0.69
+MBJHY3M2I,2022-07-25,2022-12-01,36174.76,SD,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,50000,20,1,0,0.72
+1YX9DY39C,2023-09-25,2024-05-22,20496.3,CO,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,55,0,0,0.41
+7BI8TJWOF,2024-05-22,2025-04-03,13048.41,IA,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,28,4,0,0.87
+8P8O85BIO,2024-01-01,2024-03-06,49197.94,CT,Sedan,Theft,V1 was missing after being parked overnight,claimant,100000,50,0,0,0.49
+KB8OHL1ZU,2024-01-08,2024-10-31,36843.03,NY,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,21,2,0,0.37
+P4D8J2X70,2023-01-10,2023-06-18,17560.21,GA,Coupe,Side-impact,V2 turned left and struck the side of V1,insured,100000,30,1,0,0.18
+8VYDWOX06,2024-06-26,2025-06-22,14061.2,KY,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,27,0,0,0.28
+Z8KQ86YNI,2022-07-15,2023-06-21,27103.3,OR,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,100000,30,4,0,0.27
+ONZNQ06UJ,2022-12-01,2023-03-19,12324.84,IN,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,33,0,0,0.82
+8PU9JN01N,2024-07-07,2025-02-02,36365.54,KY,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,78,5,1,0.73
+T6U777LDM,2024-11-20,2025-03-11,7197.18,WV,Van,Theft,V1 was missing after being parked overnight,insured,50000,29,2,0,0.14
+KQE7A5JI1,2023-10-16,2024-08-21,8754.32,VI,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,78,2,0,0.35
+I673KLLZC,2022-10-21,2023-03-11,10235.34,AS,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,25000,77,2,0,0.41
+RTMG7C0Q6,2024-04-01,2024-07-27,23374.54,KY,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,79,5,0,0.23
+6SQJY6REG,2022-10-20,2023-04-05,6018.77,TX,Sedan,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,70,5,1,0.24
+QEPYOHAKC,2024-08-13,2025-08-07,79866.63,AK,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,74,5,0,0.8
+B7RY0CGQ4,2024-04-27,2024-07-19,93310.47,MH,Sedan,Theft,V1 was missing after being parked overnight,insured,100000,22,0,0,0.93
+1TWD96HHW,2022-06-11,2023-01-19,9459.01,NY,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,32,4,0,0.63
+2MZ8M6XHI,2022-12-28,2023-09-24,18425.02,TX,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,64,0,0,0.18
+K4Y32HMEP,2024-02-14,2025-01-11,23457.1,IA,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,57,1,0,0.23
+SOR8133HB,2023-01-13,2023-07-16,7573.59,SC,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,23,0,0,0.5
+Z8R2W71TJ,2022-09-12,2022-11-19,10514.22,OH,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,40,5,0,0.42
+99FFZADVJ,2024-05-17,2024-09-01,22688.19,CT,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,34,1,0,0.45
+0MCG59MNB,2023-07-04,2024-04-20,18216.52,AK,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,60,5,0,0.73
+JYRDIRL48,2023-10-26,2024-09-20,86584.83,MA,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,33,0,0,0.87
+GXSKOUZXN,2025-01-11,2025-12-16,8276.36,IL,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,74,5,0,0.17
+NPZCU7MPA,2024-01-26,2024-09-30,6061.45,UT,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,34,4,0,0.4
+MGRAEJPFA,2022-09-20,2023-07-17,59650.08,WV,Van,Theft,V1 was missing after being parked overnight,claimant,100000,31,4,1,0.6
+U1P8OTXOU,2023-10-11,2023-12-04,18495.14,NV,Van,Theft,V1 was reported stolen from insured’s driveway,insured,25000,23,1,0,0.74
+EXYB8Z8TR,2024-08-24,2024-12-17,3309.63,OR,Van,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,49,3,0,0.22
+ED1LG8Y2W,2023-12-30,2024-07-02,21175.84,WA,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,77,1,0,0.85
+1RN9UQ7RZ,2023-09-22,2023-11-29,2096.34,SC,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,25000,25,4,0,0.08
+OUV75D3NM,2025-01-16,2025-08-24,40168.68,MA,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,100000,37,4,0,0.4
+QB09UW8PD,2024-06-15,2024-10-29,2618.29,AS,Coupe,Theft,V1 was missing after being parked overnight,insured,50000,44,1,0,0.05
+BNQANDTQY,2024-09-05,2025-08-08,7730.31,VT,Truck,Side-impact,V2 turned left and struck the side of V1,insured,50000,62,3,0,0.15
+MKXI9157K,2022-07-13,2022-11-15,12946.56,CO,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,57,2,1,0.86
+1IZ4JQI55,2025-01-02,2025-05-18,12083.9,NE,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,37,4,0,0.81
+VR79YT1S4,2022-09-02,2023-06-03,4506.5,AZ,Sedan,Theft,V1 was missing after being parked overnight,insured,25000,21,4,0,0.18
+YERBL6SGW,2023-05-18,2023-09-27,3486.67,ID,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,18,4,0,0.14
+BKPK7FVU3,2025-01-23,2025-07-19,80234.94,CT,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,26,1,0,0.8
+5TVGUW48T,2023-08-08,2023-10-06,19690.84,VT,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,31,5,1,0.79
+JLNDITN5K,2023-05-07,2024-02-29,23665.16,WA,SUV,Theft,V1 was missing after being parked overnight,insured,25000,34,5,1,0.95
+LKJHDKXZO,2022-10-06,2023-05-07,23386.92,IL,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,65,1,0,0.94
+NUB5XX9PK,2024-03-23,2024-12-29,1457.37,UT,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,68,5,1,0.1
+T2NBFU7PM,2022-10-18,2023-01-27,5229.37,SD,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,71,2,0,0.35
+EEO9H5IHJ,2025-01-27,2025-04-23,5825.0,UT,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,51,1,0,0.23
+4FRV1L6CK,2022-10-22,2022-11-30,10384.59,PA,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,45,3,1,0.69
+GBJ72BTQ8,2024-04-07,2024-05-10,14181.87,VI,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,29,1,0,0.95
+BNP5O3XT0,2023-02-01,2023-03-24,72052.23,IN,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,100000,79,1,0,0.72
+BMTT7FYWM,2023-08-27,2024-07-25,32790.38,KY,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,34,3,0,0.33
+OTZ60FIIG,2022-07-02,2022-09-24,30341.06,AS,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,69,4,0,0.61
+IMYO7WY66,2022-07-29,2022-11-06,2819.87,UT,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,23,0,0,0.19
+D8WZGL51R,2023-10-04,2024-06-13,34985.71,WA,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,69,5,0,0.7
+GA4FEGYYJ,2022-08-14,2022-10-30,94589.3,GA,Van,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,65,2,1,0.95
+9KP6ASSSU,2023-08-17,2023-11-28,18760.91,IN,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,18,5,0,0.75
+C1L2QJZGP,2023-11-26,2024-04-17,3060.15,UT,SUV,Theft,V1 was missing after being parked overnight,claimant,100000,28,0,0,0.03
+LG6UACOTF,2023-12-22,2024-03-17,21291.63,AL,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,35,1,0,0.43
+C781HFL1Z,2024-03-18,2024-04-06,29062.53,OH,SUV,Side-impact,V2 turned left and struck the side of V1,insured,50000,77,1,0,0.58
+30X8BNMJS,2022-12-31,2023-08-16,12118.54,GA,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,64,1,0,0.48
+JT4ZF3D4D,2023-06-02,2023-11-27,3723.44,WA,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,64,0,0,0.25
+5TT9KA1DL,2024-08-21,2025-03-04,26056.73,KY,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,76,0,0,0.52
+2G76RWR3S,2024-02-18,2024-03-23,31621.08,MA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,37,1,0,0.32
+V0HXEF73G,2024-10-14,2025-09-10,28895.13,MH,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,73,3,0,0.29
+2E077U55D,2023-02-22,2023-03-07,34818.67,WV,Van,Side-impact,V2 turned left and struck the side of V1,insured,50000,20,2,0,0.7
+SH0AHPO00,2023-02-07,2023-05-01,59224.62,KY,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,100000,56,4,0,0.59
+TGDLB3J56,2023-02-14,2023-03-22,5869.7,KY,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,15000,30,5,0,0.39
+QTP3174GU,2022-09-18,2023-03-23,23197.72,ND,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,71,4,0,0.93
+6CMEWT33O,2024-12-20,2025-11-02,67644.32,OH,Van,Side-impact,V2 turned left and struck the side of V1,claimant,100000,74,1,0,0.68
+FSF6ZFY40,2024-01-03,2024-03-01,11417.28,CO,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,37,0,0,0.46
+Z17A8RNXP,2025-01-05,2025-04-15,73980.14,AS,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,64,0,0,0.74
+ICEV8E7ZM,2023-05-28,2024-03-25,1150.57,VI,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,75,4,0,0.05
+0AZ0ZNZ3T,2024-06-30,2025-04-27,13984.43,WV,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,37,2,0,0.56
+LSU8MIJPW,2024-11-09,2025-09-23,29162.56,WV,Van,Theft,V1 was missing after being parked overnight,insured,50000,24,1,0,0.58
+FWP9K1UOA,2022-12-27,2023-06-02,14903.96,SC,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,56,0,0,0.6
+OCS224EQK,2023-05-14,2024-03-18,31392.36,UT,Coupe,Theft,V1 was missing after being parked overnight,claimant,100000,61,3,1,0.31
+KVBKAVXSO,2024-05-04,2025-03-27,11106.64,SC,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,50000,64,4,0,0.22
+BOT6ATJ4M,2025-02-02,2025-05-05,12699.72,IN,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,20,1,1,0.85
+YTIVR40DM,2023-06-17,2023-06-22,21998.42,OR,Sedan,Theft,V1 was missing after being parked overnight,claimant,25000,69,0,1,0.88
+BMOYD52MH,2024-05-01,2024-07-21,79041.98,NY,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,76,0,0,0.79
+PUSRZAEQO,2023-06-19,2023-11-20,8811.41,GA,Sedan,Side-impact,V2 turned left and struck the side of V1,claimant,15000,67,4,0,0.59
+I7K8EVBRX,2022-06-02,2022-06-22,9834.33,VT,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,15000,31,3,0,0.66
+E6WPRLPG7,2024-05-10,2024-12-06,9076.9,WA,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,78,0,0,0.18
+2JL6KK2NI,2023-08-08,2024-06-19,5644.99,VT,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,31,5,0,0.38
+A38K0HF36,2024-09-14,2024-12-15,12873.44,WA,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,70,1,0,0.86
+7XWQF1TTI,2023-01-19,2023-05-31,13644.85,NY,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,29,0,0,0.14
+YMZLO9LND,2022-09-10,2023-02-26,28153.05,KY,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,insured,50000,28,1,0,0.56
+JQJINH1K5,2024-04-04,2024-09-28,8407.3,FL,Truck,Theft,V1 was missing after being parked overnight,insured,15000,58,0,0,0.56
+J4VBISBHT,2023-11-06,2024-01-07,12789.17,ID,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,55,2,0,0.13
+7SS63UMGT,2024-11-16,2024-12-26,6751.5,MH,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,59,4,0,0.27
+QLLX70R3S,2023-08-26,2024-01-24,19211.49,IN,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,100000,61,0,0,0.19
+5R0PNF3VC,2025-02-04,2025-11-25,5987.37,CO,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,61,3,0,0.4
+J6BVVBBBV,2024-03-08,2024-06-28,14518.62,IN,Van,Theft,V1 was missing after being parked overnight,claimant,100000,56,4,1,0.15
+DDVXKKXO0,2023-06-11,2023-10-10,8438.08,IN,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,32,5,0,0.56
+LZMS804BF,2024-04-27,2024-10-01,58701.05,SD,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,46,1,0,0.59
+6Q71T6JLD,2023-08-31,2024-04-28,12480.02,AZ,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,37,4,1,0.83
+GHBTMPT1U,2023-03-24,2023-11-01,76294.39,WV,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,28,4,0,0.76
+0W78ZWGDQ,2024-01-06,2024-10-12,4851.43,WA,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,76,2,0,0.32
+3NWX0TAZ8,2024-06-07,2024-11-20,14446.58,SC,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,45,3,0,0.58
+U2CI4EURE,2022-10-31,2023-02-12,17160.03,IL,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,19,5,0,0.69
+4ZBL5KZHC,2023-05-22,2023-07-28,18364.17,IN,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,25000,20,4,0,0.73
+YSVUHIWZW,2024-01-01,2024-09-16,10098.75,OR,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,43,1,0,0.4
+X43IRGM5D,2024-10-23,2025-06-05,6134.05,AK,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,79,2,0,0.41
+GBFV9XOMI,2023-11-27,2024-06-20,10240.34,WA,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,15000,71,4,0,0.68
+BD9Q8WHT3,2024-10-27,2024-12-13,80916.56,CO,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,34,0,0,0.81
+E9AFPP7SD,2023-08-21,2024-01-08,14654.38,AS,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,79,0,0,0.98
+7UUBRJ174,2023-08-20,2024-08-05,23211.09,AS,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,50000,51,4,0,0.46
+51M4I3L0Q,2022-06-22,2023-04-14,5155.2,MT,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,52,2,0,0.21
+14311BKHS,2024-01-23,2024-09-16,44525.03,NV,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,19,5,1,0.89
+0HKRAJIAA,2023-07-19,2024-04-08,21349.1,DC,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,48,3,0,0.21
+M287C45ID,2022-05-31,2022-09-11,96963.14,AK,Truck,Side-impact,V2 turned left and struck the side of V1,insured,100000,29,4,0,0.97
+ZRVZDHJ9I,2024-10-14,2025-06-06,14261.1,KY,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,35,2,0,0.14
+1TQV0R095,2022-08-03,2022-09-07,71744.11,AS,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,37,0,0,0.72
+KJ6XHPD3B,2024-12-16,2025-04-04,5258.95,MH,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,25000,23,3,0,0.21
+FOZG7FBV2,2024-06-28,2025-01-14,10822.46,OR,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,42,1,0,0.11
+MRLCRE8UA,2023-08-06,2024-03-10,2681.88,UT,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,41,1,0,0.11
+FDTNBS5XR,2023-05-11,2024-03-26,9858.05,WA,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,66,0,0,0.1
+9DG38RAJI,2024-12-17,2025-01-03,16494.45,WA,SUV,Theft,V1 was missing after being parked overnight,insured,50000,77,5,0,0.33
+DOFG6JC86,2023-11-17,2024-03-16,15363.65,UT,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,50000,68,1,0,0.31
+WHGXMD7QC,2023-04-24,2024-02-21,15949.45,UT,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,50000,70,3,1,0.32
+VMNEDYL7U,2025-01-31,2025-07-08,14587.16,IA,SUV,Theft,V1 was missing after being parked overnight,claimant,15000,61,1,1,0.97
+RP59YEQ96,2023-03-10,2023-10-21,99343.4,IN,Coupe,Backing Collision,V2 was behind V1 when it began backing up,claimant,100000,62,2,1,0.99
+3UDUURWUD,2025-01-07,2025-05-29,23353.14,CO,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,19,4,0,0.47
+429KJPQ8S,2023-06-12,2023-07-12,57556.78,DC,SUV,Side-impact,V2 turned left and struck the side of V1,insured,100000,64,4,0,0.58
+CF0R7FA6A,2022-12-17,2023-10-11,32537.55,ND,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,45,1,0,0.33
+09QVWAS1U,2025-01-18,2025-01-24,1288.7,IA,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,53,4,1,0.09
+U0FIYHQ3Y,2022-10-16,2023-02-27,6686.71,MA,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,18,0,0,0.45
+75TRJIB73,2025-01-17,2025-09-14,6434.86,VI,Coupe,Theft,V1 was missing after being parked overnight,insured,15000,52,5,0,0.43
+CD5LXTNJS,2025-02-16,2025-07-12,6976.99,WV,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,25,0,0,0.28
+NLIOBL7VJ,2022-07-19,2022-12-29,24346.68,VI,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,25000,30,5,1,0.97
+JXAF16YFE,2023-09-10,2024-04-09,44720.06,CO,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,63,0,0,0.45
+SCJLEI6WG,2024-04-02,2024-11-21,48439.15,CO,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,27,3,1,0.97
+W9UFZDEPC,2022-07-09,2022-11-04,49791.54,WA,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,50000,19,0,0,1.0
+QGBPADUSQ,2024-11-04,2025-05-05,5016.11,DE,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,73,3,0,0.33
+MEXJTNRP1,2023-12-06,2024-03-09,24606.62,CO,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,26,4,0,0.98
+9PHWN8DDI,2022-12-09,2023-05-22,72815.2,PA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,80,2,0,0.73
+M8C9TFLDY,2022-10-06,2023-08-27,24136.93,UT,SUV,Side-impact,V2 turned left and struck the side of V1,insured,25000,37,3,0,0.97
+7284JC755,2023-08-20,2024-03-13,98699.7,ID,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,50,3,1,0.99
+UXNB9DSSR,2023-10-08,2024-05-26,39715.24,CO,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,36,3,0,0.79
+051T8FMW4,2024-02-23,2024-05-02,8516.97,AL,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,35,1,0,0.34
+2XDEYW1TC,2023-02-15,2023-05-14,13582.12,CT,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,68,1,0,0.27
+Y2S530TJ2,2023-03-26,2023-08-05,13000.44,OR,Sedan,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,45,1,1,0.87
+9GF5LXK2G,2022-12-10,2023-07-10,26707.37,DE,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,100000,67,0,0,0.27
+RD05N9HCZ,2024-09-02,2025-03-31,5353.38,IN,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,65,4,0,0.36
+K73I1RD31,2023-12-08,2024-07-28,2122.55,KY,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,69,2,0,0.14
+ZJUK9QS57,2024-08-20,2024-09-17,13384.77,AS,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,15000,66,3,0,0.89
+A7UY4SAEQ,2024-07-06,2024-08-19,23996.91,WV,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,25000,39,1,0,0.96
+2Q4EHV1WN,2023-07-16,2023-11-14,12083.16,ND,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,44,0,0,0.12
+UD6GKA0T2,2023-01-29,2023-04-05,12643.95,UT,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,71,1,0,0.51
+HOG8EV2NY,2023-06-22,2023-07-13,3376.03,AK,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,15000,34,5,0,0.23
+YMPYI46N0,2024-06-05,2024-12-07,26698.58,CT,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,60,3,0,0.27
+CRAHB73SJ,2023-08-20,2024-02-05,11301.2,TX,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,71,3,1,0.75
+TKCAKDP3C,2023-10-27,2024-02-17,9680.04,SC,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,73,1,0,0.65
+1Z9ZO2I5W,2022-11-13,2023-03-15,3063.04,IN,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,41,0,0,0.2
+P1FS324ER,2024-05-15,2024-10-25,2308.61,KY,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,38,0,0,0.15
+3EV1RDNF4,2022-09-12,2023-02-28,2915.42,AS,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,67,0,0,0.19
+2P091PQFM,2022-12-23,2023-12-06,16916.84,SD,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,64,3,0,0.17
+NJXTXIXCD,2023-05-04,2023-05-22,21153.85,IL,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,70,4,1,0.21
+SLQGBUL1O,2024-01-26,2024-05-26,11868.43,NV,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,74,3,1,0.79
+PEQ6YF84Z,2024-09-30,2024-12-19,19407.71,IN,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,51,2,0,0.19
+6PSRB6Y2S,2023-12-08,2024-09-18,48112.91,NV,Van,Theft,V1 was reported stolen from insured’s driveway,insured,100000,62,1,0,0.48
+A2Y7VFHPD,2022-10-06,2023-08-09,5232.76,IL,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,62,2,1,0.21
+OCRVQZMF4,2024-01-21,2024-09-12,95202.93,VI,Sedan,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,67,0,1,0.95
+QHCG7FD14,2022-06-09,2022-10-15,8210.97,PA,Van,Side-impact,V2 turned left and struck the side of V1,insured,50000,29,3,0,0.16
+F5NK4OTBG,2023-07-03,2024-02-11,14561.97,IN,Van,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,24,3,1,0.97
+0992A96GO,2024-08-29,2025-06-26,3902.62,MT,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,72,1,0,0.26
+73C7Q25Y7,2022-11-26,2023-01-01,55090.35,AK,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,73,0,0,0.55
+NIE3FKP96,2024-04-24,2024-08-08,5433.99,SC,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,25000,71,3,0,0.22
+5WW9LZHVE,2023-12-12,2024-04-08,11380.06,MA,SUV,Theft,V1 was reported stolen from insured’s driveway,insured,15000,66,2,0,0.76
+HXK13C3ZQ,2023-06-30,2024-03-13,13982.04,GA,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,23,1,0,0.56
+VJ0VA0STK,2024-11-12,2025-02-12,86438.25,SC,Van,Theft,V1 was missing after being parked overnight,insured,100000,53,5,1,0.86
+X7U4GBGCN,2023-12-31,2024-09-14,37923.33,CO,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,72,0,0,0.76
+6MGHAGMB3,2025-02-03,2025-12-22,4912.9,GA,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,52,4,0,0.33
+LZ6IOSTUZ,2023-12-17,2024-06-15,2589.31,ND,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,15000,74,5,0,0.17
+VE3AU09IE,2022-11-03,2023-02-15,5625.95,AZ,Truck,Side-impact,V2 turned left and struck the side of V1,insured,25000,28,2,0,0.23
+6WW8EIRHR,2023-05-17,2023-07-07,22112.89,CO,Coupe,Theft,V1 was missing after being parked overnight,claimant,25000,21,3,1,0.88
+XU6M9DEOC,2024-05-20,2024-12-01,8842.6,CO,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,50000,76,0,0,0.18
+LYS7JD6Z6,2022-06-26,2023-03-04,12373.84,VT,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,43,1,0,0.25
+5JGZCY4ML,2025-01-05,2025-08-27,1634.79,AZ,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,25000,54,4,0,0.07
+RVWJVEYJE,2024-10-07,2024-12-22,9146.41,IA,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,24,2,0,0.61
+V08KTRPW3,2023-10-10,2024-07-20,17996.7,MH,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,34,5,0,0.72
+57FQTKPCS,2024-12-21,2025-04-25,15133.88,AS,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,53,3,1,0.61
+E2ASOEVGK,2023-04-27,2023-11-01,20909.02,ND,Truck,Theft,V1 was missing after being parked overnight,claimant,25000,52,1,1,0.84
+GM1TM27O1,2022-08-25,2023-03-09,12000.3,CO,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,43,1,0,0.8
+4GF7DUGAA,2025-01-30,2025-05-03,19681.59,MA,Van,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,66,2,0,0.2
+A763BUPGR,2024-05-09,2024-12-01,20955.41,AK,Sedan,Side-impact,V2 turned left and struck the side of V1,claimant,25000,46,0,0,0.84
+NHWEKQDVN,2023-08-31,2023-09-14,15748.56,SC,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,21,5,0,0.63
+OO703B95O,2024-02-12,2024-09-18,14044.7,ND,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,27,3,1,0.94
+JD3X4YH5H,2022-11-16,2023-05-21,1206.16,ID,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,38,1,0,0.08
+ZOJ3E0QQX,2022-12-22,2023-01-02,14872.6,AK,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,50000,23,3,0,0.3
+VG9353R4D,2022-07-28,2023-02-03,95151.17,KY,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,75,0,1,0.95
+KG5KHL1CR,2022-07-15,2022-07-30,12702.51,CO,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,49,4,0,0.85
+Q1AMKT0N1,2023-09-03,2024-03-02,78309.57,ID,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,68,1,0,0.78
+CA8VI5WL0,2024-06-22,2025-04-13,4932.24,AZ,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,47,1,0,0.33
+UHTJPK4W0,2022-11-15,2023-01-05,72885.19,AK,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,33,2,0,0.73
+TQX45JOQY,2022-10-16,2023-06-11,14514.56,AK,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,47,0,0,0.29
+7FRZUD1LB,2023-05-18,2023-12-15,6148.4,UT,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,37,5,0,0.41
+MBZP6VIAR,2024-08-31,2025-03-21,5060.78,SD,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,33,2,0,0.34
+0P5RUKCAS,2022-12-15,2022-12-31,47629.32,IN,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,68,0,0,0.48
+QHOK3ZY5S,2024-01-12,2024-08-24,11683.47,ND,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,66,2,0,0.23
+FEQJ4PZC5,2024-04-22,2024-05-09,40142.18,NE,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,58,2,0,0.8
+U86AG3U1S,2023-12-16,2024-01-05,39684.66,WV,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,29,0,0,0.4
+1ID07T3LJ,2024-09-04,2025-08-19,12772.91,OH,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,53,1,0,0.51
+YILYXYEMU,2024-02-29,2024-08-01,1724.97,ID,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,63,5,0,0.07
+AJVF9I60K,2024-11-16,2024-12-04,60282.63,OR,Sedan,Theft,V1 was missing after being parked overnight,insured,100000,22,4,0,0.6
+0EQ4AW8JH,2023-01-14,2024-01-11,19787.44,DC,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,62,5,0,0.79
+LHQBR79OK,2024-02-22,2025-01-22,2441.39,SD,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,59,2,0,0.16
+FFF8TX134,2022-10-19,2023-02-05,8184.48,IL,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,52,0,0,0.55
+XQJCTPVEV,2024-06-17,2025-05-26,7407.01,AK,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,51,4,0,0.49
+4IEC1G7H6,2024-12-30,2025-04-01,41208.31,NE,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,26,0,0,0.41
+MS3RAG0KX,2024-02-11,2024-07-02,8825.53,UT,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,56,3,0,0.35
+7FINATJQ3,2023-07-27,2023-12-31,16783.11,KY,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,41,1,0,0.67
+NE1YBMZPS,2022-07-08,2022-11-17,65253.49,IA,Coupe,Side-impact,V2 turned left and struck the side of V1,insured,100000,46,0,0,0.65
+3J5SFMZQR,2023-12-15,2024-08-01,39165.34,NV,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,35,5,0,0.78
+N3VWTKCNL,2023-04-21,2023-09-14,41700.27,MT,SUV,Side-impact,V2 turned left and struck the side of V1,insured,100000,30,1,0,0.42
+FOWAPCQ7V,2024-04-06,2024-06-19,14318.42,WA,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,29,4,0,0.95
+H105OSZQG,2024-04-08,2024-10-06,61417.01,MA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,55,4,0,0.61
+63DHTG1D9,2023-05-20,2023-05-31,6949.48,OH,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,34,4,0,0.14
+FW0C20X45,2023-12-03,2023-12-23,13555.27,FL,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,36,2,1,0.9
+FWTEVTX3N,2022-10-20,2022-11-30,8212.46,TX,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,19,1,0,0.33
+SI3B79P7D,2023-12-10,2024-05-14,5613.09,NE,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,80,5,0,0.37
+OEARNWAWO,2024-09-10,2025-07-29,13385.13,NV,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,78,4,0,0.13
+L2LJZL8XR,2025-02-13,2025-12-07,48930.37,WV,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,27,5,0,0.98
+C9MIDUX8F,2023-11-27,2024-06-26,1178.26,IN,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,49,3,0,0.08
+BKGK9JQTA,2022-08-21,2023-06-20,9271.01,AZ,Van,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,51,3,0,0.62
+LC8A4OC1C,2024-01-27,2024-09-08,7215.04,ND,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,79,4,0,0.48
+CMGJVC2SM,2023-07-21,2024-07-12,5401.59,OR,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,62,1,0,0.11
+IX7BRRBAI,2023-03-09,2023-05-01,44864.68,SC,Truck,Theft,V1 was missing after being parked overnight,claimant,50000,46,2,1,0.9
+CTYVOF70I,2022-11-24,2023-05-11,6744.25,PA,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,35,0,0,0.13
+TAOFZD6KP,2024-04-24,2025-02-06,68764.78,AL,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,100000,35,5,0,0.69
+VQJA6614R,2022-10-08,2023-01-25,9221.1,IN,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,44,1,0,0.37
+VWT0Y5KID,2023-04-13,2024-01-28,99247.62,NE,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,20,4,0,0.99
+M2IXEXB92,2025-02-08,2025-08-31,10925.74,NE,SUV,Theft,V1 was missing after being parked overnight,insured,100000,39,4,0,0.11
+RJZK08CT6,2025-02-05,2025-04-26,5389.55,MA,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,56,3,0,0.36
+3U0UP229E,2024-12-01,2025-10-29,2918.28,ID,SUV,Theft,V1 was missing after being parked overnight,insured,25000,66,0,0,0.12
+9EN0KERTQ,2022-06-21,2022-10-31,35453.03,ND,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,54,3,0,0.71
+OI3NETXXP,2022-08-05,2023-05-01,5793.45,SC,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,77,0,0,0.06
+C0XFEVMY1,2023-10-19,2024-07-29,1153.29,UT,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,31,4,0,0.08
+BWTB5Q787,2023-06-01,2024-03-23,69915.27,UT,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,41,1,0,0.7
+08KKLSEAU,2022-11-30,2023-04-15,49092.64,KY,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,55,1,0,0.98
+1OO5VYFRR,2024-10-12,2025-08-17,35438.22,IL,Van,Side-impact,V2 turned left and struck the side of V1,claimant,100000,40,4,0,0.35
+LPQK5FP7A,2023-04-02,2023-10-18,4286.27,MH,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,69,3,0,0.29
+CI08P3LBS,2022-09-02,2022-10-09,25694.43,AS,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,50000,19,0,0,0.51
+LUCNJ0HYL,2024-09-25,2025-04-09,5301.83,UT,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,37,0,0,0.21
+P0KZUPNEI,2023-04-05,2023-05-07,36411.41,IL,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,25,4,0,0.73
+YBGI0RR0T,2024-11-14,2025-07-30,31732.86,OR,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,50000,53,3,1,0.63
+RH4FZZHYH,2023-04-19,2024-03-17,8891.27,OH,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,28,0,0,0.59
+376QWVGFR,2023-05-15,2023-09-29,3604.61,OR,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,15000,53,1,0,0.24
+EYADYAPG1,2023-10-11,2024-01-05,18302.32,WA,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,73,2,0,0.73
+6AYLLD4YE,2023-01-03,2023-05-30,7776.71,AK,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,79,2,0,0.16
+THBZOKIYG,2024-11-29,2025-07-18,22384.46,WV,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,62,4,0,0.45
+HC5S88OKR,2022-05-23,2023-04-13,22926.66,SD,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,49,3,1,0.92
+W2EK0BRZ0,2023-07-23,2023-11-11,3565.64,WA,Van,Theft,V1 was missing after being parked overnight,insured,50000,42,0,0,0.07
+PPN74PF4I,2022-12-29,2023-05-21,10455.57,OH,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,73,3,0,0.7
+KQLRVD79Z,2022-12-06,2023-08-28,32080.34,AS,Van,Theft,V1 was missing after being parked overnight,insured,50000,68,3,0,0.64
+VWLL5V2H3,2024-09-04,2025-06-30,42263.56,MA,Van,Theft,V1 was missing after being parked overnight,insured,50000,56,0,0,0.85
+DDZV7TXX6,2023-06-12,2023-11-15,4061.42,IN,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,65,1,0,0.16
+YPZ7F638Z,2023-02-14,2023-07-16,12170.94,CO,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,50000,19,0,0,0.24
+Z0ZCSSF8H,2022-11-05,2023-04-12,20841.06,NV,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,25000,77,5,1,0.83
+SNC0ZJXOQ,2022-06-28,2023-05-31,6723.05,AS,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,60,4,1,0.07
+WU2GYIAW7,2022-12-09,2023-09-14,20179.34,CT,SUV,Theft,V1 was missing after being parked overnight,claimant,50000,66,5,1,0.4
+DOAPMLQS8,2022-06-11,2023-01-04,1709.73,IN,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,52,0,0,0.11
+9GQJANQS3,2023-11-26,2024-11-05,32924.9,NV,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,66,2,0,0.33
+DGJKCSW7A,2023-05-23,2023-10-24,6003.79,MH,SUV,Theft,V1 was missing after being parked overnight,claimant,15000,44,3,1,0.4
+350Q8OBW3,2024-11-18,2025-08-20,91302.79,AZ,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,45,0,0,0.91
+BV50HYA1W,2023-10-03,2024-01-24,7015.55,AL,Van,Theft,V1 was reported stolen from insured’s driveway,insured,100000,20,5,0,0.07
+MFJHOJALB,2022-06-12,2023-04-18,86932.65,ND,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,76,4,1,0.87
+X8UY5VWTF,2023-02-13,2023-08-30,30616.36,VT,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,50,0,0,0.31
+6V1LK4AGL,2023-07-05,2023-10-04,14242.98,AK,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,59,0,0,0.28
+NN8XC609Y,2022-08-08,2022-10-01,66833.8,FL,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,48,2,0,0.67
+Z3JUFXH8P,2022-12-01,2023-03-19,8012.04,IL,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,15000,66,5,0,0.53
+4KSD9GAO4,2024-03-02,2024-12-12,71926.72,ND,Sedan,Side-impact,V2 turned left and struck the side of V1,claimant,100000,66,2,0,0.72
+2533UOT47,2024-08-13,2025-02-24,14744.16,CT,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,51,0,1,0.98
+W8AFGQ3CZ,2022-11-11,2023-01-23,72768.34,WV,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,32,5,1,0.73
+YT39UZC2P,2022-08-25,2023-02-07,43773.13,IL,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,63,4,0,0.88
+0QCULVUKS,2024-05-27,2024-09-12,14843.66,AL,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,74,4,1,0.99
+HAFARCIOD,2024-04-14,2024-07-13,82850.65,DC,Coupe,Theft,V1 was missing after being parked overnight,claimant,100000,31,4,1,0.83
+42D13A3AO,2023-12-02,2023-12-21,37173.16,KY,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,53,4,0,0.74
+VFT6I6S7P,2024-07-24,2024-08-16,1659.05,CO,Coupe,Side-impact,V2 turned left and struck the side of V1,insured,15000,55,1,0,0.11
+QW5259GMQ,2024-11-26,2025-07-21,4396.55,MT,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,38,0,0,0.29
+LWY1P6MXS,2022-11-04,2023-03-09,11723.19,WV,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,71,5,0,0.78
+NSH8LLRB7,2024-04-20,2025-04-05,13397.88,IN,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,63,2,1,0.54
+L131V0UP5,2024-07-09,2024-11-07,42690.76,WV,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,50000,30,3,0,0.85
+MSJ9UK693,2023-04-28,2024-02-02,13231.94,VT,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,27,1,0,0.88
+HRX5M8NZF,2024-12-29,2025-06-04,1929.51,KY,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,31,1,0,0.13
+E3LNZKF3I,2022-07-25,2023-07-04,24118.62,CO,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,50,3,0,0.24
+U2AQHKNQJ,2024-08-06,2025-02-19,4379.66,WA,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,40,5,0,0.09
+07VPPM86C,2023-08-30,2024-02-27,27693.7,UT,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,59,0,0,0.55
+4YN6ZJUY3,2024-04-29,2024-11-27,10037.43,AK,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,78,2,0,0.67
+1BF8W80UX,2025-02-11,2025-04-22,13864.35,AK,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,36,5,0,0.55
+O8A906K37,2022-07-06,2022-09-08,10974.79,WA,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,46,3,0,0.44
+08T6RWARQ,2022-08-21,2022-11-02,7447.96,KY,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,55,4,0,0.3
+WH1MQ46PL,2024-06-01,2024-08-21,14527.83,AK,Sedan,Theft,V1 was missing after being parked overnight,insured,50000,43,0,0,0.29
+U2M6NWMUF,2024-02-01,2024-04-02,25386.96,WA,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,66,1,0,0.25
+A787TAG2M,2024-03-11,2025-03-01,38187.28,FL,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,74,2,0,0.38
+G6IAQIIJN,2022-11-02,2023-03-25,46342.62,AK,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,34,4,1,0.93
+EZVSQ3HEY,2024-06-18,2024-12-31,29948.66,AK,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,100000,71,1,0,0.3
+DGZ2SC0T8,2024-04-07,2025-02-04,14985.33,IA,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,46,3,0,0.3
+ROW8A2CQB,2022-09-10,2022-12-29,5544.01,UT,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,78,0,0,0.37
+XXA53XI3C,2022-09-21,2023-08-15,21738.99,NE,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,50000,26,2,1,0.43
+8PMX76AL3,2023-10-01,2024-01-14,6659.42,TX,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,21,1,0,0.44
+BLJ0UA9O6,2024-12-18,2025-02-09,5049.87,ND,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,27,0,0,0.34
+I9EXBNXDX,2023-01-04,2023-03-22,4256.4,WV,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,26,2,0,0.17
+UGXNS8EHI,2022-08-29,2022-10-11,11614.31,AL,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,15000,34,4,0,0.77
+SK2VPAJSP,2022-12-01,2023-05-26,68248.22,AZ,SUV,Side-impact,V2 turned left and struck the side of V1,insured,100000,39,1,0,0.68
+JUWMW3M4D,2023-07-20,2023-08-21,13128.34,MA,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,66,3,0,0.26
+1OF25SWOK,2025-01-12,2025-08-01,37721.7,AZ,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,39,4,0,0.38
+KP9J1PLIH,2025-01-26,2025-08-08,6981.13,VI,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,72,4,0,0.28
+7FDRFQX78,2024-11-13,2025-01-22,37648.95,IL,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,50000,27,2,0,0.75
+SPYA2OTKQ,2024-09-16,2025-01-13,14301.22,AS,SUV,Theft,V1 was missing after being parked overnight,claimant,50000,78,5,1,0.29
+O2XZDIRHE,2023-10-06,2024-08-21,6813.93,WA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,40,1,0,0.45
+386A6NJHE,2023-12-31,2024-12-23,19600.37,DC,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,67,0,0,0.78
+X409WNZMO,2024-12-02,2025-06-28,15211.68,MH,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,37,3,1,0.61
+H3J4CYGO6,2024-08-20,2024-10-19,14730.77,KY,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,77,4,0,0.15
+YTHHDDOG2,2023-08-20,2024-06-10,9754.69,AS,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,100000,44,3,0,0.1
+1CIJJRX3X,2024-04-22,2024-06-24,77831.0,ND,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,33,4,0,0.78
+085RHCJTD,2024-07-12,2025-04-16,4940.26,SC,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,70,4,0,0.33
+FU547OTB8,2024-12-14,2025-10-11,11803.23,WV,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,21,2,0,0.79
+T59HHPZUY,2024-03-17,2024-04-11,8007.47,MT,Coupe,Theft,V1 was missing after being parked overnight,claimant,25000,25,1,0,0.32
+DZDRHEZUL,2022-10-20,2022-12-15,23098.74,DE,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,42,0,0,0.92
+DET4KERZ1,2022-11-12,2023-04-21,67231.68,AL,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,18,1,0,0.67
+GCT8BWK8X,2024-09-21,2025-05-07,85064.18,AK,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,41,3,1,0.85
+5CI7HBVPX,2023-04-18,2024-02-12,9296.64,AK,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,59,1,0,0.19
+06AWKZCZV,2024-03-17,2024-10-16,40893.29,AL,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,39,1,1,0.82
+BD9ZMQ77H,2024-04-19,2024-09-12,21870.02,PA,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,56,2,0,0.44
+FO1NNJ5RX,2023-05-08,2023-10-11,21441.71,IA,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,29,3,1,0.86
+J2S2DA89O,2024-02-20,2025-01-24,6450.35,OR,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,32,0,0,0.13
+AOGZE5XFF,2023-10-27,2023-12-01,49425.5,CT,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,69,0,0,0.99
+SMVVBJB1J,2024-04-22,2024-07-25,7813.8,AL,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,52,2,0,0.31
+Y38LL2PF1,2024-01-28,2024-05-28,44605.44,NV,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,24,5,1,0.89
+UB1SB7AC6,2024-02-24,2024-05-06,12081.64,IN,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,45,2,1,0.81
+7JQOQ0WTG,2022-10-13,2023-03-14,12886.66,GA,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,50000,22,4,0,0.26
+QVEFHX0ZJ,2023-09-16,2024-08-31,1541.75,OR,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,32,2,0,0.06
+2VL1TKU04,2024-03-11,2025-01-15,5465.11,AL,Van,Theft,V1 was missing after being parked overnight,claimant,15000,39,4,1,0.36
+N0NPIQJPB,2023-09-16,2024-07-07,10652.59,OH,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,40,1,0,0.71
+VTFHAKROW,2023-06-18,2023-09-04,42023.07,AS,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,77,1,0,0.42
+TYIFJHS1J,2023-12-21,2024-07-16,14198.31,UT,SUV,Side-impact,V2 turned left and struck the side of V1,insured,50000,47,3,0,0.28
+TLK87N4UN,2023-01-11,2023-06-22,11082.05,TX,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,39,1,0,0.74
+YKGICX7FN,2024-05-24,2024-08-21,23156.74,AK,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,33,1,0,0.46
+FR8V3ADQ7,2022-08-31,2022-09-15,15522.42,WA,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,43,1,0,0.62
+44O9318EI,2022-10-07,2023-04-13,15168.17,TX,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,75,3,1,0.61
+BDVDIINIV,2022-09-28,2022-10-26,27050.3,IA,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,50000,78,2,0,0.54
+DF4NZKRSN,2022-10-10,2022-11-15,1813.89,AL,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,19,1,0,0.12
+2M2H0CNWQ,2024-03-19,2024-03-25,58357.34,OR,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,57,1,0,0.58
+A0W8MYZDC,2022-10-16,2023-03-15,19465.38,SD,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,46,5,1,0.39
+X1CAUT3XR,2023-12-18,2024-07-29,71438.34,WA,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,39,0,0,0.71
+CERT7AWRP,2022-12-07,2023-11-16,12160.15,IN,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,57,0,0,0.81
+CE3SKSO6D,2024-09-29,2024-12-12,5762.14,AK,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,25000,49,0,0,0.23
+31I1UZ5ZC,2022-08-20,2023-07-01,10435.69,CT,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,20,0,0,0.21
+ER8ZDXHYO,2024-11-15,2025-07-01,30372.47,AS,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,58,4,0,0.61
+YBNMZOGQ2,2024-10-07,2025-04-04,23064.4,CO,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,26,0,0,0.92
+R4YL1W9JP,2024-10-07,2024-11-13,12708.44,AK,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,25000,35,2,0,0.51
+AOEAOEULT,2023-10-13,2024-05-23,4952.48,IN,Sedan,Theft,V1 was missing after being parked overnight,insured,25000,70,4,0,0.2
+G80ZWVHYJ,2022-11-24,2023-02-10,13129.15,WA,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,67,1,1,0.88
+FH6Q9Y4YZ,2024-02-16,2024-04-28,5216.26,AK,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,15000,73,5,0,0.35
+QHXTDQY89,2023-11-19,2024-08-02,85938.98,CT,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,26,2,0,0.86
+LZOO0AHWY,2024-03-06,2024-06-17,64865.66,NV,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,100000,74,1,0,0.65
+SJNJ8TH1P,2022-08-06,2022-11-21,2579.53,SD,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,26,1,0,0.17
+0WZN4XJ76,2023-08-08,2024-02-24,14257.95,AL,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,50,1,0,0.95
+5FW1DUHBX,2024-12-06,2024-12-23,45944.12,SC,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,50000,35,4,0,0.92
+HSSX0BJCK,2023-09-16,2023-11-15,15296.9,AZ,SUV,Theft,V1 was reported stolen from insured’s driveway,insured,50000,25,3,0,0.31
+4GWDSHLLS,2023-11-16,2023-12-23,20877.68,MH,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,50000,75,4,0,0.42
+QR3TB8VFQ,2022-10-26,2023-09-15,2443.53,UT,Sedan,Theft,V1 was missing after being parked overnight,claimant,15000,43,4,1,0.16
+SO9SPDU3N,2024-11-01,2025-06-01,12609.59,NY,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,24,3,0,0.5
+Z5L9HGMTV,2024-07-15,2025-04-12,16935.89,VT,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,25000,28,3,0,0.68
+KNXD6ZMBY,2023-04-14,2023-11-30,14090.38,OR,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,33,2,0,0.56
+FSH6QRNV3,2023-01-14,2023-08-24,55257.25,CO,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,56,1,0,0.55
+L5NKDI2QG,2024-06-06,2024-11-20,9931.6,SC,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,69,5,0,0.66
+UZGRRQ01E,2023-05-02,2024-02-19,13381.1,WV,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,64,0,0,0.13
+AVA6FBF4F,2022-11-03,2023-04-06,8656.95,AK,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,62,5,0,0.35
+9DW7ZPEUW,2023-11-13,2024-07-25,22322.75,IN,Van,Theft,V1 was missing after being parked overnight,claimant,25000,79,0,1,0.89
+BVYSIKJAZ,2024-09-29,2025-04-08,35636.83,CT,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,43,3,1,0.36
+2W8G4U1IW,2023-12-10,2024-05-07,24673.93,SC,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,42,5,0,0.99
+1M2VC8BZB,2022-11-13,2022-11-28,34970.69,OH,SUV,Side-impact,V2 turned left and struck the side of V1,insured,50000,48,5,0,0.7
+Y46V57HLS,2023-07-25,2024-02-29,1430.22,KY,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,20,1,0,0.1
+QDJI6SOW4,2024-10-26,2025-05-02,89548.66,NE,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,56,1,0,0.9
+PFSLTJ669,2023-05-05,2023-07-28,13272.35,MT,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,23,3,1,0.88
+TXDXNADA1,2024-03-15,2024-08-15,1551.57,AZ,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,20,5,0,0.1
+9LPXHV163,2024-10-06,2024-12-23,87863.75,IA,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,43,5,0,0.88
+TS03L38GX,2025-01-08,2025-02-11,9250.66,CO,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,51,4,0,0.62
+BJHPPIPG6,2024-12-27,2025-12-24,4158.98,DE,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,52,4,0,0.08
+45U269145,2025-02-10,2025-03-29,24641.09,KY,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,61,5,1,0.99
+AWRHQS9DV,2024-09-29,2024-11-10,1508.7,DC,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,40,5,0,0.1
+1D3PYDRO6,2022-06-28,2022-09-12,61034.01,UT,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,48,3,0,0.61
+DX52F7GFP,2024-12-20,2025-09-28,10820.01,VT,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,25000,33,3,0,0.43
+89LG7V6TV,2023-07-08,2024-04-01,8978.26,UT,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,62,1,0,0.6
+MRQP94NA4,2022-07-02,2023-04-30,20402.16,KY,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,54,4,1,0.82
+1D8NRUU8F,2023-02-23,2023-11-27,5439.23,NY,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,77,0,0,0.36
+SB5MBZGJZ,2023-07-17,2024-01-17,8481.36,WA,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,46,0,0,0.57
+1VAD5MAXO,2023-09-10,2024-04-30,35608.5,AS,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,47,0,0,0.36
+9F4OHEUN5,2023-10-28,2024-07-11,9374.85,SC,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,66,0,0,0.19
+FZUNQ2W9Z,2023-11-15,2024-10-12,1475.51,IL,Van,Side-impact,V2 turned left and struck the side of V1,claimant,25000,26,2,0,0.06
+6Y6JZTRHX,2022-05-28,2023-05-21,12294.63,NE,Truck,Theft,V1 was missing after being parked overnight,claimant,15000,66,2,1,0.82
+M5H0JHK0I,2023-02-24,2023-06-21,17185.01,NY,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,22,2,1,0.34
+3SIBXQNQ7,2022-12-27,2023-08-08,21512.22,AL,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,25000,71,3,1,0.86
+K509Y5BA0,2024-10-14,2025-02-20,19555.35,CO,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,59,3,0,0.78
+Q0AQK711U,2024-01-31,2024-03-06,49731.78,MA,Van,Side-impact,V2 turned left and struck the side of V1,claimant,50000,20,4,1,0.99
+W7Y8AUBPM,2022-09-04,2023-04-25,22952.28,NY,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,49,1,0,0.92
+9AGULM5FQ,2022-12-25,2023-06-29,10472.18,NE,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,62,5,0,0.7
+EIMB9GM53,2025-01-26,2025-05-25,62423.61,CT,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,71,2,0,0.62
+SRTTYMMCW,2022-07-05,2023-02-17,90704.96,VT,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,100000,69,5,1,0.91
+MM1HQB1EG,2022-10-08,2023-08-18,9184.4,IN,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,38,0,0,0.61
+Y3NPZ5GP5,2024-08-20,2025-04-15,6938.82,WA,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,34,3,0,0.28
+AWCUD3I2I,2023-04-18,2023-05-07,26760.23,WV,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,50,5,0,0.54
+ZZ3T7EY0P,2023-12-24,2024-06-18,7101.57,NE,Sedan,Theft,V1 was missing after being parked overnight,insured,15000,49,0,0,0.47
+S4DKFFVIK,2024-03-01,2024-06-02,7729.53,AK,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,32,4,0,0.31
+Q1PQVCZKA,2024-04-22,2025-02-04,19850.4,AK,Truck,Side-impact,V2 turned left and struck the side of V1,insured,25000,33,0,0,0.79
+PWI25Y4XV,2023-10-30,2024-02-11,8298.72,ND,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,63,1,0,0.55
+VO2MCQ4S4,2023-01-18,2024-01-05,5489.71,CT,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,44,1,0,0.37
+DTO62PYPR,2023-12-14,2024-01-30,11236.16,MA,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,49,1,0,0.75
+XMVW0NHJL,2023-09-15,2024-03-21,14557.12,SC,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,61,3,1,0.58
+TBH7W5GLO,2023-10-04,2023-10-12,19626.73,WV,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,42,5,0,0.79
+OYYKCZF2T,2024-10-16,2024-11-14,16565.78,IN,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,21,2,0,0.66
+B1DINDLFD,2024-11-30,2025-01-12,20922.51,OR,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,60,1,0,0.84
+5YS0WI4IU,2022-09-27,2022-12-27,40008.62,UT,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,29,0,0,0.8
+0VLRRBAEJ,2022-08-08,2023-07-11,99045.36,KY,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,65,3,1,0.99
+U5AXTVDHA,2023-01-15,2023-02-14,91419.15,PA,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,47,0,1,0.91
+7PRWMOEGP,2023-01-18,2023-03-20,9711.02,IA,SUV,Theft,V1 was missing after being parked overnight,claimant,15000,69,5,1,0.65
+4IMD01N1T,2025-01-02,2025-08-19,73701.79,DE,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,69,0,0,0.74
+3B0HXZ8Y8,2022-08-04,2023-02-11,21539.85,CO,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,24,1,0,0.22
+KYCQ2YGYN,2022-09-22,2023-04-15,18414.97,AK,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,45,1,0,0.18
+JAJLTUV67,2023-07-15,2023-11-13,9413.52,ND,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,52,5,1,0.63
+OI41UG82Z,2024-04-06,2025-01-18,1071.76,AL,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,25000,35,4,0,0.04
+C6B0YUCQE,2024-03-07,2025-02-13,12581.3,TX,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,21,3,1,0.5
+Z18X4RYS0,2024-06-11,2025-02-16,8260.31,FL,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,19,0,0,0.55
+L7ERDTOMP,2024-12-17,2025-11-22,41798.91,NV,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,insured,50000,48,2,0,0.84
+H245L5DO3,2024-04-04,2025-01-17,14928.61,TX,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,75,0,1,1.0
+PKORUCU6S,2024-02-21,2024-10-19,41807.35,MA,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,46,1,0,0.84
+1XAC9M2ZE,2023-07-17,2024-06-17,6487.49,CO,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,80,1,0,0.43
+U1BY4IYV0,2023-04-18,2023-11-24,12232.63,PA,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,33,0,1,0.82
+RK0VF616D,2024-07-22,2025-01-13,9201.91,AZ,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,44,1,0,0.37
+566DZGG3E,2022-11-11,2023-09-19,8744.11,OR,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,74,0,0,0.35
+ILHBI62VS,2023-11-06,2024-03-09,18542.37,IL,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,24,1,0,0.37
+5UQW6B9W5,2024-03-16,2025-02-02,10108.57,MA,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,45,5,0,0.67
+OC5HWGPBY,2022-11-07,2023-07-05,63969.06,DC,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,75,1,0,0.64
+EGG4JYS2Z,2023-08-02,2024-07-08,17958.7,WA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,80,0,0,0.72
+DTXLJK85J,2024-11-25,2025-11-09,5435.86,UT,Sedan,Theft,V1 was missing after being parked overnight,insured,25000,33,3,0,0.22
+OZ7E0PCM9,2024-06-12,2024-09-05,12987.89,SC,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,71,2,0,0.26
+QL3E49YWS,2024-08-14,2025-06-09,6049.46,WA,Van,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,49,2,0,0.12
+GU9B8INNU,2023-09-10,2023-10-23,1380.26,VT,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,15000,30,2,1,0.09
+UDC32GY42,2022-07-28,2022-10-29,14676.34,CO,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,25000,32,1,0,0.59
+JG3YTIIHN,2023-04-26,2023-09-21,8057.35,IL,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,42,3,0,0.32
+3GIUNWELA,2024-01-23,2024-08-10,90350.46,AZ,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,34,5,1,0.9
+5745IP65P,2024-12-05,2025-06-02,9086.65,IL,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,40,1,0,0.61
+Q2SA12MES,2022-08-12,2023-01-29,12753.1,UT,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,48,3,1,0.85
+PVWJAZQ4X,2022-05-30,2022-10-22,37239.02,VT,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,57,5,1,0.74
+8HS287QMR,2023-04-01,2023-05-02,12847.91,NY,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,57,3,0,0.86
+YNXJ5YHY8,2023-08-30,2024-04-12,1002.52,PA,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,insured,50000,39,0,0,0.02
+X2OZ2IMB3,2023-04-12,2024-03-09,57972.88,IL,Truck,Theft,V1 was missing after being parked overnight,insured,100000,38,0,0,0.58
+2E84L9YIL,2022-12-18,2023-03-24,8138.0,KY,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,71,5,0,0.08
+1IXU1OUBN,2023-06-19,2024-01-29,19133.68,IL,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,73,2,0,0.77
+PUVD3XAK7,2023-08-11,2024-02-11,1454.69,PA,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,71,0,0,0.06
+LF80HKKWJ,2023-10-10,2024-06-21,35677.54,IN,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,42,3,0,0.36
+IPPR46QHE,2022-11-21,2023-06-07,6583.1,SD,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,52,0,0,0.26
+N7QLBW66V,2022-05-31,2022-10-26,23588.22,MT,Truck,Side-impact,V2 turned left and struck the side of V1,insured,50000,74,3,0,0.47
+4ZEMG0255,2024-06-29,2025-03-14,31050.51,WV,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,61,2,0,0.62
+5A5PMLQHD,2024-03-17,2024-11-20,47107.36,IL,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,53,3,1,0.47
+02NMSIKJI,2023-02-15,2023-06-06,2425.48,IN,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,55,0,0,0.1
+PBY615BQ4,2022-12-05,2023-06-15,9206.96,AS,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,29,1,0,0.37
+CV1SVOLCT,2023-12-30,2024-02-08,11298.57,NE,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,70,2,0,0.75
+LLQ7S1ORA,2024-08-23,2025-05-12,18973.02,FL,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,46,2,0,0.76
+0ZNMVNSWJ,2023-05-11,2024-03-09,40589.63,TX,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,59,3,0,0.41
+PKAKRITGF,2024-07-04,2025-06-28,1086.61,NE,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,29,4,0,0.04
+LL5HVDQ0M,2024-10-02,2025-04-06,4027.94,NE,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,23,4,0,0.27
+D70Y6ISX4,2023-11-20,2024-04-26,41553.08,IA,Coupe,Theft,V1 was missing after being parked overnight,claimant,50000,18,1,1,0.83
+H87CYAMNJ,2022-09-07,2023-08-27,41948.36,ID,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,77,3,0,0.42
+YRVMWW3SZ,2024-01-25,2024-10-29,5889.66,NE,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,78,4,0,0.39
+MWHH4VL1U,2022-07-23,2022-10-23,33698.92,KY,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,69,4,0,0.34
+EV3LFY5U0,2024-03-26,2024-04-28,24052.42,OR,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,22,2,1,0.96
+K9KOHD5MH,2022-06-17,2023-04-18,3427.44,WA,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,15000,50,2,0,0.23
+PDZ6W5OWK,2024-05-02,2024-10-18,1935.79,MA,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,21,2,1,0.08
+L5EU9VDOW,2022-09-16,2023-03-03,41270.95,AL,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,71,5,1,0.41
+PDZNXYDC1,2023-09-17,2024-03-14,2321.83,MA,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,37,5,0,0.09
+TPSEYWR7O,2024-10-29,2025-09-24,4840.9,GA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,34,1,0,0.19
+U7DAMIXW7,2024-03-15,2025-01-30,95505.74,AS,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,100000,19,4,1,0.96
+FB8X6JMRE,2024-10-25,2025-07-09,19241.52,MH,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,53,5,0,0.77
+63L952A76,2024-02-06,2024-10-05,3026.47,NV,Van,Theft,V1 was missing after being parked overnight,insured,15000,40,0,0,0.2
+A245J8O98,2025-02-06,2025-02-19,5347.86,AK,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,53,0,0,0.05
+OYHDOWM2H,2024-02-26,2024-03-13,43660.61,KY,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,58,4,1,0.87
+HXBX5EV59,2023-08-11,2024-05-13,73072.52,FL,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,42,2,0,0.73
+6CUASHEZJ,2022-11-13,2023-08-29,1903.03,NV,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,35,3,0,0.02
+CZEQUBNLE,2024-02-07,2024-07-26,14442.87,OR,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,78,5,0,0.58
+0E0R3JSS3,2022-06-20,2022-12-25,14402.38,NV,Van,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,44,3,1,0.96
+5F6Z61DHI,2023-10-05,2024-03-27,69187.89,ND,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,100000,27,4,0,0.69
+6XSVOLTRJ,2023-02-09,2023-09-25,21927.6,AZ,Coupe,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,64,2,0,0.44
+7LM2LW7ZR,2025-01-03,2025-06-23,34137.57,OR,Van,Theft,V1 was reported stolen from insured’s driveway,insured,100000,23,1,0,0.34
+Y9FP14X2W,2024-05-02,2024-09-25,14537.55,VT,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,22,5,1,0.97
+2P5WPVI06,2023-12-02,2024-05-26,7437.3,WA,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,44,2,1,0.3
+24D0UXF7F,2022-10-02,2023-01-20,37083.5,NV,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,70,1,0,0.74
+OBW1PY825,2024-03-27,2025-01-03,8327.43,AK,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,25000,60,4,0,0.33
+5PI2SO0DM,2022-10-30,2022-11-08,5716.84,NE,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,37,4,0,0.23
+RJ09WEEW0,2023-05-31,2024-01-04,5830.7,OH,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,55,1,0,0.39
+QWY2NB958,2024-03-25,2025-02-12,2499.2,IL,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,62,1,0,0.17
+TDFGJ7NRS,2024-11-18,2025-09-04,21661.49,AK,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,61,3,1,0.87
+X6Z7VCRNF,2024-01-31,2024-02-06,56556.69,NE,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,67,0,0,0.57
+PJTSYI2MU,2024-08-09,2025-01-14,12108.52,AZ,Van,Theft,V1 was reported stolen from insured’s driveway,insured,15000,56,1,0,0.81
+AL0J2H4I1,2022-09-18,2023-05-08,35699.99,OR,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,67,2,0,0.36
+03JW6R8YK,2024-01-23,2024-12-29,11083.01,DC,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,73,3,0,0.11
+ELJQIK8IC,2023-09-12,2024-01-02,30093.38,UT,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,50000,47,0,0,0.6
+JIJ8WLOLX,2023-10-28,2024-10-22,14215.7,UT,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,40,2,1,0.14
+MA1024RV3,2023-04-28,2024-03-15,8430.78,PA,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,50000,73,1,0,0.17
+OI0X8KAAD,2023-10-18,2023-12-12,40842.74,OH,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,100000,27,4,0,0.41
+9EMLMBZRK,2023-02-04,2023-09-24,4562.8,KY,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,80,3,0,0.3
+CMYXBD07Q,2022-09-14,2022-10-07,7460.71,GA,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,30,4,0,0.5
+LD6F0N3IT,2024-07-20,2025-05-15,7844.34,VI,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,45,5,0,0.52
+NYMSORQET,2025-01-26,2025-09-15,68008.74,AZ,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,40,1,0,0.68
+JBQ4FW9IO,2022-11-12,2023-03-06,20220.29,NE,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,70,0,0,0.81
+8J8H19YX6,2024-08-20,2025-02-01,71514.48,NE,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,64,4,0,0.72
+9M8YI038Z,2024-07-19,2025-01-26,84504.61,KY,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,53,1,0,0.85
+82FJXLFN7,2023-03-16,2023-12-05,43487.26,VI,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,55,0,0,0.43
+QJWNNHN3K,2023-11-12,2024-10-10,21229.65,KY,Sedan,Theft,V1 was missing after being parked overnight,claimant,25000,69,4,1,0.85
+H7G8YFH3X,2023-11-15,2024-08-12,12162.1,IN,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,62,4,0,0.81
+T657JYF8J,2025-02-14,2025-06-09,83912.63,NV,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,64,3,0,0.84
+PT6AAR17Q,2023-01-03,2023-04-19,8767.44,ND,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,80,0,0,0.35
+8IQFVAPR4,2023-05-21,2024-03-14,14879.38,AS,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,60,5,1,0.99
+XDOUB5YNK,2022-10-25,2023-02-01,7985.83,IN,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,20,2,0,0.53
+BZYIYN62U,2023-01-01,2023-05-17,47259.55,AS,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,24,4,0,0.47
+YEC5UDOTU,2023-06-20,2024-05-20,4212.55,UT,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,26,2,0,0.28
+WOE58OAGP,2023-03-21,2023-11-17,9582.42,IL,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,79,2,0,0.19
+H9T13G4WA,2023-02-12,2023-11-25,37317.0,PA,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,35,4,0,0.37
+U1ZE50K61,2024-12-09,2025-04-15,42712.87,CT,Coupe,Theft,V1 was missing after being parked overnight,claimant,50000,48,2,1,0.85
+7M1VD7CRA,2023-01-11,2023-05-21,3082.73,AK,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,25000,39,2,0,0.12
+J7NL8J31W,2022-09-13,2023-04-16,90847.91,VI,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,100000,75,4,1,0.91
+Q5PCNIL84,2023-02-18,2023-06-09,11757.23,VI,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,53,2,0,0.47
+IJ200Q696,2025-01-18,2026-01-04,21226.21,NE,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,58,3,0,0.85
+0HEDMAMKR,2024-06-24,2024-08-27,5230.73,UT,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,35,4,0,0.35
+DB8UO5NYM,2024-05-08,2025-03-07,41063.79,IN,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,63,2,1,0.82
+SJ9AHAS8N,2024-10-10,2024-12-30,16018.37,NY,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,42,5,0,0.16
+CS72RW556,2024-11-04,2024-11-14,38516.65,SD,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,55,5,0,0.39
+NRV537C2B,2024-04-15,2024-10-28,5047.14,SD,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,59,1,0,0.05
+O8XGHIY1B,2024-10-11,2025-04-17,2820.23,CT,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,56,3,0,0.19
+U9ZYAWXGP,2025-02-10,2025-12-27,7053.55,OH,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,42,0,0,0.28
+BN7J5UKR8,2025-01-29,2025-04-15,5426.85,OR,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,50000,50,2,0,0.11
+L9O98N2R4,2025-01-13,2025-03-18,4582.95,VT,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,15000,41,2,0,0.31
+Z8GICR6D8,2023-10-03,2024-07-05,54891.29,IL,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,19,5,0,0.55
+U1F5R3ZJF,2025-01-17,2025-08-15,92327.86,CO,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,78,4,1,0.92
+KPI1TSQAC,2023-09-22,2024-03-30,18194.43,AK,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,70,0,0,0.18
+Y0XA0RK8C,2023-01-08,2023-10-09,31909.73,AZ,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,61,0,0,0.32
+O5L02MOYQ,2024-04-01,2024-12-17,16805.16,AZ,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,62,0,0,0.67
+072HUN8FI,2022-09-02,2022-10-03,21825.31,KY,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,43,0,1,0.87
+9FERJXMZW,2024-05-16,2024-12-10,6967.43,UT,Sedan,Theft,V1 was missing after being parked overnight,claimant,15000,68,0,0,0.46
+YAECEEUTZ,2024-04-04,2024-05-27,3169.96,WA,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,24,4,1,0.06
+VSVDT7663,2025-01-23,2025-05-24,24268.75,KY,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,46,0,1,0.97
+3QZD2LGUQ,2023-09-01,2023-12-23,9244.91,OR,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,56,1,0,0.09
+GX8860I7P,2023-07-19,2024-02-19,10251.49,UT,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,40,4,0,0.41
+WQRV5ND61,2024-11-22,2025-02-22,15556.28,CO,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,50000,58,2,0,0.31
+7XXEQ58WZ,2022-08-14,2023-05-11,12688.85,AS,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,57,4,1,0.85
+E5OZ83EJF,2023-11-16,2023-11-25,6865.3,AK,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,40,3,0,0.46
+6YFI7EQ3O,2024-07-15,2025-02-16,2273.23,KY,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,66,0,0,0.09
+EVI9V9J2F,2022-09-11,2023-05-25,21634.1,AS,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,80,0,0,0.43
+6RR79IV2F,2023-09-13,2024-08-09,21017.54,MA,SUV,Theft,V1 was missing after being parked overnight,claimant,25000,79,5,1,0.84
+ZFUUZWP4O,2024-05-05,2024-10-11,73130.81,GA,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,100000,33,3,0,0.73
+J7ZKXEWV0,2024-04-20,2024-09-26,11838.64,IL,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,49,1,0,0.47
+LIUVJ40Y5,2022-07-16,2023-02-27,95086.1,MA,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,100000,69,2,0,0.95
+33DHARJI6,2022-08-15,2022-11-17,56235.66,NE,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,32,2,0,0.56
+KRJWTG3FI,2023-12-12,2024-01-11,24658.25,NY,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,45,2,0,0.99
+3RD8L4BV8,2023-08-07,2024-01-24,6596.66,AS,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,15000,26,1,0,0.44
+OCVF34EI2,2022-09-15,2023-02-06,4655.5,AK,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,59,5,0,0.19
+M00L879W5,2025-02-13,2025-11-09,9209.36,DC,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,72,1,0,0.61
+PI8WEJI4P,2022-10-06,2023-09-30,85973.83,IL,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,38,2,1,0.86
+IE5APCBFL,2024-12-29,2025-03-12,10398.91,KY,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,73,4,0,0.69
+LYYP6S0VD,2024-11-26,2025-08-14,33714.59,IA,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,44,4,0,0.67
+3SUTHK9OE,2024-07-14,2025-02-17,12894.11,OR,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,64,1,0,0.86
+SY77BMBVM,2024-01-06,2024-10-04,6706.84,OH,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,50,3,0,0.45
+8ZFAWTY7K,2024-05-06,2025-02-09,10124.64,CT,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,29,4,0,0.4
+8H1V8SVWU,2024-11-05,2025-07-02,9440.92,IN,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,36,0,0,0.38
+NJBPS0QCU,2024-09-26,2025-03-27,30770.68,WV,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,50000,31,3,1,0.62
+3HK7DBWPV,2022-07-21,2022-09-15,6949.81,CT,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,40,3,0,0.46
+IQR2AHNYR,2024-04-16,2024-05-07,9387.76,VI,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,71,2,0,0.38
+4FXEN3MAC,2024-10-23,2025-05-28,6196.47,IN,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,53,3,0,0.41
+OQSRLDHH2,2023-03-07,2024-01-08,8101.93,AK,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,65,5,0,0.54
+IFL79R9KP,2023-09-30,2024-06-30,19538.73,AS,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,21,0,0,0.78
+YMS2FMQLO,2024-12-13,2025-11-12,32095.1,SC,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,35,3,1,0.32
+0Q48GCNUB,2024-05-26,2024-08-04,1896.52,NE,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,32,2,0,0.08
+OBTEGURT1,2024-07-05,2025-03-31,19532.87,MT,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,50,0,0,0.78
+OLT34KFF2,2023-01-08,2023-01-30,80166.08,NE,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,44,0,1,0.8
+5ICNIC4DT,2022-08-23,2022-11-12,27297.86,MA,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,71,3,0,0.55
+YONAQ2DS3,2024-04-17,2024-11-02,63498.55,DC,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,100000,69,0,0,0.63
+0OT1K8HCD,2022-10-26,2023-08-24,18607.3,WV,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,72,3,0,0.74
+A97ZILE5Y,2023-11-03,2024-07-29,2552.1,CO,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,72,4,0,0.17
+36QK3QHAD,2022-09-27,2023-05-20,8032.59,NY,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,44,0,0,0.54
+V2QJI47JW,2024-07-10,2024-12-01,24216.26,VI,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,78,1,0,0.48
+O8WD3OKAN,2025-02-15,2025-11-15,1367.29,CO,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,78,1,0,0.01
+R8IYBATOL,2023-02-11,2023-09-22,35708.7,ID,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,100000,78,0,0,0.36
+KKSQKU1W3,2022-07-18,2022-10-15,12067.11,VI,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,50000,20,3,0,0.24
+3AB62ACR8,2023-06-07,2024-02-27,26321.46,CO,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,47,0,0,0.53
+D5PU139KA,2024-03-29,2024-09-10,30180.4,IA,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,69,1,0,0.6
+KIXSX097N,2024-03-31,2024-08-29,5220.42,TX,SUV,Theft,V1 was missing after being parked overnight,claimant,50000,80,2,1,0.1
+IA7BW2VNO,2024-08-10,2025-06-01,7720.63,NY,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,61,0,0,0.51
+DQ851ZFSZ,2024-08-08,2025-02-26,14401.43,CT,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,57,3,0,0.96
+5XNQDZ98J,2024-12-21,2025-10-08,42444.08,MH,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,50000,42,2,0,0.85
+UD53QE5EE,2023-01-20,2023-09-28,44591.52,DE,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,20,3,0,0.45
+HVYQDK9XM,2023-12-05,2024-12-01,23427.11,SC,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,41,2,1,0.94
+O08NE4XLW,2023-12-19,2024-10-25,7012.9,WA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,26,3,0,0.28
+3PO4QU280,2023-08-01,2023-09-02,1670.75,AS,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,23,0,0,0.11
+XG4XNUBY8,2024-01-10,2024-02-25,23741.41,KY,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,72,1,0,0.95
+XTR698I94,2024-02-13,2024-09-12,13657.81,PA,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,61,1,0,0.14
+AHC0OKRCW,2023-10-26,2024-06-01,9482.72,KY,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,26,0,0,0.63
+PG6VC4PAI,2024-12-02,2024-12-21,5550.0,CO,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,34,0,0,0.22
+F6F5226G5,2022-08-08,2023-07-20,10982.24,OR,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,64,1,0,0.73
+L6OJKS1I7,2025-01-23,2025-11-22,30645.66,AS,Van,Theft,V1 was reported stolen from insured’s driveway,insured,50000,57,4,0,0.61
+HPAZAUR4L,2025-02-17,2026-02-17,51222.27,NY,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,73,0,0,0.51
+T7B7UYA08,2023-10-20,2024-10-04,11792.93,OR,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,76,3,0,0.79
+HGSC2GLXV,2022-08-29,2022-11-28,6774.39,MT,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,74,5,0,0.45
+4LMUXFZJD,2023-10-13,2024-02-11,97046.96,KY,Van,Side-impact,V2 turned left and struck the side of V1,claimant,100000,68,4,1,0.97
+FM8QPDNU0,2022-10-12,2023-09-27,24703.34,TX,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,79,3,1,0.99
+B8ZUFJWFQ,2024-10-01,2025-01-20,12150.76,TX,Sedan,Theft,V1 was missing after being parked overnight,insured,15000,52,0,0,0.81
+WIPM7TFAE,2024-01-09,2024-02-03,68612.24,KY,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,51,4,0,0.69
+PZRZ1HOCW,2023-08-03,2024-03-24,8705.78,FL,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,26,4,0,0.58
+BEKTJEPGY,2023-06-14,2023-12-16,5477.35,SC,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,63,0,0,0.11
+FXIZGJF3J,2024-12-10,2025-07-17,14944.46,UT,Truck,Side-impact,V2 turned left and struck the side of V1,insured,15000,26,1,0,1.0
+5ZHP6PNU0,2023-01-07,2023-04-26,14728.55,CO,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,67,4,0,0.98
+7OPJQBTK0,2023-10-18,2024-02-27,21595.07,KY,Sedan,Theft,V1 was missing after being parked overnight,insured,25000,34,2,1,0.86
+UOYSVKEA3,2022-09-22,2022-11-17,36714.54,GA,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,24,3,0,0.73
+ZNZZE2TBS,2024-11-09,2025-06-10,10772.83,KY,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,64,1,0,0.11
+RO70YVBDE,2022-12-24,2023-08-19,63960.14,IN,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,33,2,1,0.64
+OH9JV8A6M,2023-11-13,2024-05-02,25820.58,OR,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,45,1,0,0.52
+G9H8LYK0V,2023-09-12,2023-09-20,12655.56,WA,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,52,3,0,0.13
+DGQVTAKLO,2024-01-17,2024-07-06,28613.01,CT,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,46,2,0,0.57
+T948U6B15,2022-12-05,2023-04-17,38585.66,UT,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,61,0,0,0.77
+ASJP0ESUS,2024-11-28,2025-03-05,11872.23,WV,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,30,3,0,0.79
+0U1R54ED6,2022-09-27,2022-10-05,28795.56,IN,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,75,0,0,0.29
+S08UWOXT1,2023-09-11,2023-10-10,6069.85,MA,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,61,3,0,0.24
+QRKUW2032,2024-10-03,2025-07-29,40196.65,IL,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,33,0,0,0.4
+O6GPN1MXK,2023-12-25,2024-12-14,43607.87,SD,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,37,2,1,0.87
+U7HWLWZUB,2025-02-11,2025-12-03,10651.17,AL,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,19,5,1,0.71
+LX2CRL39Y,2023-10-11,2024-05-22,25807.8,MT,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,50000,38,3,0,0.52
+D7WGXXASH,2022-12-03,2023-01-06,65563.32,VI,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,24,5,1,0.66
+IGUVETYBG,2024-08-13,2024-11-02,5736.91,IA,SUV,Theft,V1 was missing after being parked overnight,insured,25000,63,4,0,0.23
+3KQJYG8IR,2022-10-11,2023-09-30,32191.04,KY,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,100000,28,3,0,0.32
+NZ9B9BOQC,2025-02-15,2025-09-25,44425.26,ID,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,55,1,0,0.89
+DU7V8FY1A,2024-03-06,2024-07-24,28616.44,ID,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,69,3,0,0.57
+XWNKPZIAJ,2024-07-16,2024-08-05,73759.35,PA,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,24,1,0,0.74
+AR1VY7HXR,2023-12-02,2024-05-29,3501.7,MH,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,50000,80,3,0,0.07
+Y3ONX3F86,2022-06-16,2023-04-24,4679.94,AS,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,70,3,0,0.31
+OQVP7Q7CM,2023-12-03,2024-03-11,4592.0,IN,SUV,Theft,V1 was missing after being parked overnight,insured,25000,54,3,0,0.18
+QV66N0TGI,2023-09-10,2023-10-04,3900.89,NE,SUV,Theft,V1 was missing after being parked overnight,insured,15000,72,1,0,0.26
+AMADGP56E,2023-02-23,2023-12-26,11368.86,CT,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,28,4,0,0.76
+KURT6267C,2023-04-16,2023-08-18,45002.67,MH,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,35,1,0,0.45
+JZNUE5RAU,2023-10-31,2024-01-25,14439.8,MA,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,80,1,1,0.96
+79GQQQJR6,2024-06-12,2025-05-14,88725.54,NE,Sedan,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,78,2,1,0.89
+RQ59D6SV8,2023-03-13,2023-10-30,12346.49,CT,Coupe,Theft,V1 was missing after being parked overnight,claimant,15000,62,4,1,0.82
+YCXNEAM5C,2023-05-05,2023-10-13,10573.25,NV,Van,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,21,4,0,0.42
+C4XN98UNC,2022-12-18,2023-01-09,19972.44,UT,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,63,3,0,0.4
+INYCOAUDW,2023-01-14,2023-10-14,22541.61,NE,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,74,1,1,0.9
+Y2YR6NBQD,2022-09-15,2023-07-01,8312.19,WA,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,18,5,0,0.55
+VQF6OYLCB,2023-08-21,2024-01-19,4989.74,AS,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,32,3,0,0.33
+0ABMKRY7I,2022-10-23,2022-11-23,6048.63,NE,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,24,3,0,0.06
+62RXYX4MI,2024-07-15,2024-10-17,2146.72,AL,Van,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,61,1,0,0.14
+XY1JXCDKM,2024-09-03,2025-02-19,75068.44,FL,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,34,1,0,0.75
+I791522OU,2024-08-13,2025-03-31,2928.12,NE,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,50000,68,5,0,0.06
+M13QVBNK0,2022-07-16,2023-03-07,53823.75,NV,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,65,5,1,0.54
+82SG0YPJA,2023-10-24,2023-12-08,14370.64,WV,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,57,0,0,0.29
+90D6D86S2,2025-01-03,2025-10-20,21700.87,KY,Coupe,Side-impact,V2 turned left and struck the side of V1,insured,100000,34,2,0,0.22
+3CMUEXBX0,2022-12-08,2023-04-20,68065.37,MH,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,75,4,0,0.68
+FW8XEMLTF,2024-12-01,2025-11-25,13286.18,AS,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,15000,20,1,0,0.89
+VTQNKV78R,2023-12-25,2024-09-02,11055.66,KY,Truck,Theft,V1 was missing after being parked overnight,claimant,15000,27,0,0,0.74
+CGMBJ2W6P,2023-01-13,2024-01-02,98680.0,VT,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,74,1,0,0.99
+KLJQKCJEV,2023-01-26,2023-10-15,59378.35,WA,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,52,4,1,0.59
+GQXCZHNIV,2023-02-23,2024-02-17,10982.77,DC,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,74,0,0,0.44
+O7CMTOZZI,2025-01-13,2025-06-09,39593.67,WA,Van,Side-impact,V2 turned left and struck the side of V1,claimant,50000,48,4,0,0.79
+DBZQ7IB48,2023-01-31,2023-02-19,34193.5,WA,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,34,4,0,0.34
+P52DWHZR4,2024-03-28,2024-05-06,63938.23,KY,Van,Theft,V1 was missing after being parked overnight,claimant,100000,28,2,1,0.64
+WSSNML4C7,2022-07-25,2023-05-02,13686.39,TX,Coupe,Theft,V1 was missing after being parked overnight,claimant,15000,44,0,1,0.91
+V6L8JVZSL,2024-02-16,2025-02-03,9126.12,OR,Coupe,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,22,1,0,0.37
+CHY3T5Q21,2023-12-05,2024-02-28,23001.37,TX,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,20,2,0,0.46
+EP5ROPTXM,2023-05-22,2023-08-16,3911.79,ND,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,45,3,0,0.26
+A9RU3PC0O,2024-04-08,2025-01-08,74139.32,UT,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,80,0,0,0.74
+I6G8E24RZ,2024-12-22,2025-04-22,7383.03,AK,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,58,2,0,0.3
+CEQ0YET33,2023-08-04,2023-12-17,11435.31,DE,Truck,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,51,2,0,0.23
+KOV2Y9269,2024-04-15,2024-07-12,3046.18,GA,Sedan,Theft,V1 was missing after being parked overnight,claimant,50000,64,1,0,0.06
+2P2K5QS49,2023-05-17,2023-10-19,2455.99,IN,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,48,4,0,0.16
+RIGG48FTL,2024-08-25,2025-07-07,5158.28,OR,Van,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,79,2,0,0.34
+7UV48PBOW,2023-05-25,2024-05-17,3871.73,AL,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,60,3,0,0.04
+UBEZSD1FI,2023-09-11,2023-12-30,2192.01,NY,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,78,5,0,0.15
+8NHQ4HOAW,2024-05-16,2025-02-26,5486.56,SD,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,74,4,0,0.37
+Q6YK8MMU9,2023-03-16,2023-06-13,8016.9,DE,Truck,Theft,V1 was missing after being parked overnight,claimant,100000,38,3,1,0.08
+ES58KCIMF,2023-12-11,2024-05-29,17519.89,IL,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,42,1,0,0.7
+OL5VZD3NK,2024-10-21,2025-09-30,8027.2,AK,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,77,0,0,0.16
+15QA0TKC3,2024-04-02,2024-06-22,12253.63,PA,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,20,5,1,0.82
+U9PK42UD2,2024-05-05,2024-08-06,12000.83,IA,Coupe,Theft,V1 was reported stolen from insured’s driveway,insured,15000,65,2,1,0.8
+UCA7R6D2X,2023-07-30,2023-08-23,36203.08,CT,Truck,Theft,V1 was missing after being parked overnight,claimant,50000,60,1,0,0.72
+200I2ZRHV,2024-01-02,2024-06-09,1807.95,NE,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,53,4,0,0.02
+RKE1F1W5Z,2024-07-08,2025-02-19,22419.85,IN,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,45,4,1,0.9
+W8BTTCNO3,2024-08-15,2024-12-12,2291.74,TX,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,55,2,0,0.15
+YGOU3HPF1,2024-02-28,2024-05-02,10465.41,AS,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,73,4,0,0.7
+D4HTUW52R,2023-01-25,2023-10-07,14883.82,AK,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,80,5,1,0.99
+8JNBRJS1M,2023-03-25,2023-04-14,4348.49,KY,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,31,1,0,0.29
+I31HO4X8S,2024-12-13,2025-08-07,37805.33,KY,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,27,2,0,0.76
+1UN1COQAV,2022-12-19,2023-11-22,5416.4,AZ,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,74,5,0,0.36
+HQBDYSAAR,2023-06-11,2024-04-16,40324.1,KY,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,56,1,0,0.4
+HB1MTRKZY,2022-08-08,2023-07-14,8832.06,KY,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,30,1,0,0.59
+GS664FN80,2025-02-08,2025-12-29,6841.74,NY,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,39,4,0,0.27
+7SF1PT6TR,2024-06-03,2024-08-04,15884.95,OH,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,25,4,0,0.64
+ZOPSO6JPR,2023-12-16,2024-11-10,4488.88,KY,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,33,4,0,0.18
+IQMGPOEMK,2024-09-26,2024-11-20,23857.94,IN,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,67,0,0,0.24
+ZZZ6CTEL7,2022-10-25,2022-12-25,13400.0,MH,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,23,2,0,0.27
+MZJ86GO8N,2024-07-28,2024-09-09,8229.56,WV,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,28,3,0,0.55
+WL94MOPA9,2022-11-28,2023-03-31,45755.63,IA,Sedan,Side-impact,V2 turned left and struck the side of V1,claimant,100000,35,0,0,0.46
+8NV6YYX01,2023-08-04,2024-06-11,64709.36,IL,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,26,1,0,0.65
+A2GBZUO7M,2022-09-26,2023-04-18,13841.9,OR,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,60,0,0,0.55
+3WUG0RQAP,2023-01-23,2023-03-04,10884.72,MT,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,62,2,0,0.44
+K0PLED0Z4,2023-07-16,2024-01-06,43937.37,MA,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,50000,25,2,1,0.88
+O765ZC9HL,2024-04-15,2024-11-28,12391.62,VI,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,28,4,0,0.5
+ZT3P6SRD8,2024-07-24,2025-07-20,29668.7,AK,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,32,2,0,0.59
+Q80I4527K,2023-01-02,2023-02-22,2263.16,AK,Sedan,Side-impact,V2 turned left and struck the side of V1,claimant,100000,53,0,0,0.02
+1256HHGTQ,2024-03-28,2025-03-25,9512.78,NY,Van,Side-impact,V2 turned left and struck the side of V1,claimant,50000,63,5,0,0.19
+7OLJQZDCS,2022-10-08,2023-09-15,57804.05,WA,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,53,0,0,0.58
+77RUEOC7J,2023-04-28,2024-01-26,96018.8,AK,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,61,4,0,0.96
+0K7H01STX,2024-04-18,2024-06-14,2448.42,IN,SUV,Theft,V1 was missing after being parked overnight,insured,25000,54,3,0,0.1
+AQUEFIMDD,2023-11-13,2024-03-20,99998.9,GA,Coupe,Theft,V1 was missing after being parked overnight,claimant,100000,60,3,1,1.0
+XOATMZH93,2022-06-29,2022-07-19,19118.84,GA,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,43,3,0,0.76
+1AAY0A1V9,2024-02-22,2024-10-19,6738.14,SD,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,15000,43,5,0,0.45
+17IB22ZU6,2022-08-09,2022-12-17,52498.53,IN,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,100000,21,4,0,0.52
+0T57GOCRK,2024-01-24,2024-06-16,30099.52,AZ,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,61,5,0,0.6
+DVFD9JRM4,2024-07-06,2025-01-29,22640.45,AK,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,45,3,1,0.45
+9O9IH4O8J,2023-12-20,2024-05-30,38471.0,TX,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,66,1,0,0.77
+1BNMPMXJO,2023-05-20,2024-01-06,6796.53,ND,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,57,5,0,0.27
+ZM4H01VHE,2024-01-08,2024-03-15,9222.35,VT,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,53,1,0,0.37
+11IF24HYG,2022-09-22,2023-01-16,7346.41,WV,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,52,2,0,0.15
+AYLXJ6HQJ,2023-12-22,2024-04-11,1494.83,MH,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,69,1,0,0.1
+O1CMRT7JH,2023-05-02,2023-08-15,9851.58,IN,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,15000,52,4,0,0.66
+UNA9WK4MK,2022-07-01,2023-03-31,37884.31,MA,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,61,5,0,0.76
+PBHF3H88P,2023-09-26,2023-11-19,24983.91,NV,Truck,Side-impact,V2 turned left and struck the side of V1,insured,50000,62,4,0,0.5
+HQ6Q6Y5YC,2022-10-19,2023-09-04,7313.77,PA,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,79,1,0,0.29
+22Y0EAP50,2023-10-21,2024-02-24,3270.47,NV,Van,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,50,2,0,0.13
+Q53UTIUMW,2022-12-31,2023-11-27,6645.81,FL,Sedan,Theft,V1 was missing after being parked overnight,claimant,15000,47,1,0,0.44
+DM1IYKU9I,2022-12-18,2023-04-20,10074.73,AL,Truck,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,27,3,0,0.2
+2KN2XHQSH,2022-07-17,2023-06-01,45930.74,WA,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,50000,36,0,0,0.92
+H0G0XQZ3G,2023-08-07,2023-09-27,10270.61,FL,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,65,3,0,0.68
+ADEVKSO8A,2024-05-21,2024-10-18,27522.27,SD,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,31,4,0,0.28
+SWWKRPC3Y,2022-12-20,2023-03-13,31644.64,AL,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,77,3,0,0.32
+AMRIJPUK6,2024-05-16,2025-01-29,13858.4,ND,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,36,5,0,0.92
+SUXOM9TP2,2024-04-14,2025-01-20,77043.24,CO,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,74,0,0,0.77
+J3MVOLHBF,2024-12-29,2025-08-17,9307.81,IL,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,77,4,0,0.62
+OVXJI1IJO,2022-05-27,2022-08-16,2081.89,IN,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,73,4,0,0.08
+SCSBLLWNA,2022-09-19,2022-11-20,20685.95,CO,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,25000,61,2,1,0.83
+0UX5PGEM9,2022-06-17,2022-07-22,12446.55,OR,Coupe,Theft,V1 was missing after being parked overnight,claimant,25000,34,3,1,0.5
+W6B2KLVHN,2023-06-20,2024-06-07,70176.5,OR,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,80,2,0,0.7
+01AV2R2A9,2023-04-19,2024-03-27,1125.68,DE,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,70,1,0,0.01
+UN63VV1E6,2023-01-06,2023-04-15,40721.69,AS,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,72,3,1,0.81
+TCPXCAAL8,2024-09-17,2024-10-10,17466.1,AL,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,54,0,0,0.35
+FVHF1KM8B,2024-12-19,2025-03-17,1846.36,MA,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,76,5,0,0.04
+RSMFQTNDY,2024-08-15,2024-09-10,14211.37,WA,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,70,1,1,0.95
+PRDDTBXT6,2024-03-06,2024-05-17,10095.33,UT,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,76,0,0,0.67
+GM5SRZEPF,2022-11-07,2023-10-20,21995.24,DC,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,57,4,0,0.88
+5ZWUOT8MM,2023-08-09,2024-07-18,30401.61,IA,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,50000,53,5,0,0.61
+21761J034,2023-05-23,2023-08-08,12795.68,OR,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,68,3,1,0.85
+PLK5BOV30,2023-08-29,2024-08-22,90796.63,IN,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,34,0,0,0.91
+VHWT3UBJV,2022-11-24,2023-06-28,17615.46,AZ,Sedan,Theft,V1 was missing after being parked overnight,claimant,25000,47,2,1,0.7
+79PPLG1TQ,2022-08-01,2023-01-09,16963.73,WV,Van,Theft,V1 was missing after being parked overnight,claimant,25000,60,0,0,0.68
+O4KF9OQKZ,2023-05-24,2024-04-02,13293.92,NV,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,69,2,0,0.89
+8D1N1TP1L,2024-03-01,2024-12-29,2886.51,NV,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,68,5,1,0.19
+XENFRRYBC,2025-02-04,2025-06-27,87736.8,PA,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,100000,56,5,1,0.88
+GHF3OBS0S,2025-01-10,2025-03-23,3081.69,WV,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,78,1,0,0.12
+MFW66L1GE,2024-04-28,2025-03-06,87978.44,AZ,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,46,1,0,0.88
+IEZEV57U6,2022-08-24,2023-03-28,5611.42,IL,SUV,Side-impact,V2 turned left and struck the side of V1,insured,15000,79,4,0,0.37
+SJ64YW5R1,2022-11-07,2023-01-06,45529.9,CT,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,59,0,1,0.91
+DR756SSX8,2024-07-03,2024-07-31,3320.05,NE,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,25,3,0,0.13
+3YNR9155P,2024-12-01,2025-06-20,21676.37,MA,Truck,Theft,V1 was missing after being parked overnight,claimant,25000,28,3,1,0.87
+L0ELLCQSU,2024-08-28,2025-05-17,5690.12,WA,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,66,3,0,0.23
+TSSQAJOP6,2022-06-13,2022-06-30,3257.06,KY,Sedan,Theft,V1 was missing after being parked overnight,insured,50000,33,2,0,0.07
+CXCRHY3ZO,2025-01-24,2025-10-28,13968.06,PA,Coupe,Theft,V1 was missing after being parked overnight,claimant,25000,80,3,1,0.56
+DXRK6C2JA,2024-07-27,2024-11-06,6199.85,DC,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,15000,66,5,0,0.41
+MQJHC24DE,2024-10-28,2025-05-19,4883.08,PA,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,36,2,0,0.33
+4QD102KKV,2023-05-29,2023-09-27,22291.94,MT,Truck,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,68,4,1,0.89
+4RO893ENV,2022-12-28,2023-10-06,40872.42,MT,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,50000,63,3,0,0.82
+6VB7HFG5L,2023-08-14,2023-12-27,11952.27,KY,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,25000,80,1,0,0.48
+2ULQ4JQHN,2024-03-15,2024-10-30,5057.73,WV,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,31,5,0,0.34
+4TF5GYTE3,2022-05-21,2022-12-17,1052.25,ND,Coupe,Weather Damage,V1 was damaged by falling tree during storm,insured,15000,79,3,0,0.07
+J2VHAK2X9,2024-12-29,2025-08-03,12538.27,VT,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,68,2,1,0.5
+T9DHXJ9S0,2023-11-18,2024-02-16,13601.88,VI,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,43,5,1,0.91
+FJE50QYRZ,2023-05-27,2023-07-17,14532.21,CO,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,60,2,1,0.97
+0U7033ZUJ,2024-10-21,2025-02-18,25989.61,KY,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,78,4,0,0.26
+6OUGOPRRU,2024-02-25,2024-07-05,57807.02,PA,Coupe,Side-impact,V2 turned left and struck the side of V1,insured,100000,30,0,0,0.58
+9CM19ATTK,2023-03-05,2023-10-13,3920.66,VT,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,67,2,0,0.26
+E5BCIDL8L,2022-09-28,2022-12-08,5811.62,WA,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,56,0,0,0.23
+A08D716JQ,2024-08-09,2025-03-13,25470.18,AL,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,50000,28,0,0,0.51
+Q7NXNGBYE,2023-11-30,2024-05-12,5796.78,WA,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,15000,75,3,0,0.39
+SNU966WQX,2022-09-01,2023-04-28,11376.36,WV,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,32,5,0,0.46
+EMYD8YH30,2024-08-13,2025-02-19,62188.19,ID,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,28,3,0,0.62
+B1MVHMN85,2024-09-10,2025-07-12,51289.67,VI,Truck,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,44,4,0,0.51
+GHR4X51MO,2024-07-15,2024-11-05,24828.63,NE,Truck,Theft,V1 was missing after being parked overnight,insured,25000,44,2,1,0.99
+90M43I465,2024-07-15,2025-04-11,65926.44,GA,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,42,3,0,0.66
+GXUJ3SO5X,2024-09-25,2025-08-22,7076.51,NE,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,25000,67,2,0,0.28
+SNTHT7UGV,2022-06-19,2022-07-07,11582.23,OR,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,70,2,1,0.46
+RQB2JMZNG,2024-01-15,2024-11-22,30991.44,KY,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,65,4,0,0.31
+S5QUH67QX,2024-05-18,2024-06-07,6064.63,AZ,Van,Side-impact,V2 turned left and struck the side of V1,claimant,50000,69,5,0,0.12
+JMFB8U3C5,2022-07-25,2023-03-08,4466.96,DE,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,15000,72,1,0,0.3
+O9J5RWHHI,2025-01-30,2025-12-22,44184.85,DE,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,48,4,0,0.44
+ZRV4A3M1X,2024-01-09,2024-02-27,13328.95,WA,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,74,2,1,0.27
+PQRW6T77V,2023-12-19,2024-01-09,19252.63,OR,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,19,5,1,0.77
+NXSKYZ86I,2023-06-17,2023-08-09,14679.65,ID,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,26,1,0,0.59
+1W14N53JR,2022-06-13,2023-02-01,5682.53,UT,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,62,4,0,0.38
+IS1QP5XYA,2023-11-24,2024-03-12,22627.01,AK,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,64,2,0,0.45
+EQ5S222J0,2022-08-31,2023-07-19,12501.01,IA,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,50,0,0,0.5
+TX69VA98B,2023-11-05,2024-07-19,37559.52,AS,Truck,Theft,V1 was missing after being parked overnight,insured,50000,50,2,0,0.75
+ENH6BE8XO,2023-05-28,2024-01-11,12826.38,MH,SUV,Side-impact,V2 turned left and struck the side of V1,insured,15000,70,2,0,0.86
+9BVV2J2CG,2025-01-18,2025-02-02,22846.11,UT,SUV,Theft,V1 was missing after being parked overnight,insured,25000,40,3,1,0.91
+D9LAEC8FB,2022-10-27,2023-01-23,2644.65,MA,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,73,5,0,0.18
+U6C8KKQ6M,2024-11-07,2025-08-03,20385.95,WV,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,21,2,0,0.82
+3LYI3NDFF,2023-10-17,2024-08-24,88612.66,NE,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,100000,55,4,1,0.89
+SGNXY12XC,2022-12-12,2023-09-06,11478.18,IN,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,insured,25000,35,1,0,0.46
+4JSNYM31S,2022-07-26,2022-08-21,2287.3,AK,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,25000,50,0,0,0.09
+OKILP4VN2,2023-11-17,2024-01-19,37117.62,AL,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,50000,50,4,0,0.74
+Q1K1QRRN5,2024-09-13,2025-03-25,25906.87,PA,Truck,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,22,0,0,0.52
+VWACKLN9T,2023-10-26,2023-12-30,6203.8,CO,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,46,1,0,0.25
+EYMP4ELVM,2025-02-10,2026-02-02,46722.67,DE,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,34,5,0,0.47
+EF1FFRM27,2023-02-14,2023-10-07,45228.4,PA,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,57,5,0,0.45
+KNU2MWM37,2024-05-09,2025-05-04,7631.32,WA,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,49,5,0,0.31
+SU2MA90DS,2024-05-31,2025-01-08,5884.9,WV,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,68,5,1,0.24
+1DZQIONB7,2025-01-24,2025-06-28,2906.98,NE,SUV,Theft,V1 was missing after being parked overnight,claimant,25000,23,2,1,0.12
+9BN1HCD4G,2023-02-26,2023-04-07,4568.63,TX,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,100000,54,4,0,0.05
+7PRB6X6TW,2022-12-14,2023-05-13,1461.7,NV,SUV,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,63,1,0,0.1
+8QD11PI55,2022-08-25,2023-07-31,8834.37,WA,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,15000,57,1,0,0.59
+0OKK0OJBQ,2024-04-28,2025-02-05,8175.46,KY,SUV,Side-impact,V2 turned left and struck the side of V1,insured,25000,62,0,0,0.33
+VXSYTP4JU,2022-07-15,2023-07-05,19279.01,CO,Van,Weather Damage,V1 was damaged by falling tree during storm,claimant,25000,56,3,1,0.77
+I3LPLFWAF,2023-08-17,2024-05-17,66711.39,AK,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,37,2,1,0.67
+Y3C6XT4U2,2023-03-28,2023-04-07,27558.63,OR,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,79,4,1,0.28
+HRUJ9YCSR,2022-07-26,2022-12-14,56458.31,CO,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,26,1,0,0.56
+Y6L1XXX2N,2023-03-24,2023-09-12,50642.86,UT,Coupe,Theft,V1 was missing after being parked overnight,claimant,100000,21,2,1,0.51
+WRPX7J86F,2022-07-23,2023-02-10,1757.56,AK,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,40,2,0,0.12
+GCF9SPQDN,2023-09-21,2024-04-23,4575.04,WA,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,15000,45,2,0,0.31
+2OWIL4LTW,2023-09-12,2024-03-01,9842.01,MH,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,23,4,0,0.66
+YYBKHTAB9,2024-07-27,2024-11-04,90005.24,IN,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,44,5,1,0.9
+M6X4K3OWA,2024-01-27,2024-03-11,5278.56,WA,Van,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,41,1,0,0.05
+H6SGL5WR6,2024-09-08,2024-09-22,9432.33,FL,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,57,3,0,0.38
+DTQM73D9I,2024-05-23,2024-07-30,1963.56,CT,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,22,0,0,0.08
+GPM4GHDOM,2023-06-16,2023-11-13,2984.43,IN,Sedan,Theft,V1 was reported stolen from insured’s driveway,insured,25000,26,3,0,0.12
+QEBIWRCQL,2022-07-14,2023-02-18,7013.12,SC,Sedan,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,38,2,1,0.28
+QCCGZDN5V,2025-02-16,2025-08-22,55436.05,WA,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,100000,20,3,0,0.55
+JKULC5L36,2023-03-11,2023-09-18,14784.39,VI,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,32,5,0,0.59
+JOJ02WY0U,2023-08-06,2023-11-15,21656.47,CT,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,63,4,0,0.87
+2DVGONI9H,2023-11-24,2024-05-02,12986.72,OR,Sedan,Theft,V1 was missing after being parked overnight,insured,15000,59,0,0,0.87
+ZBUTKO9I7,2022-08-01,2023-01-14,71158.16,AK,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,100000,41,5,1,0.71
+EGZ5G64IH,2023-10-16,2023-12-09,2061.68,AS,Coupe,Theft,V1 was missing after being parked overnight,insured,100000,79,5,0,0.02
+QVNMD8IYU,2023-07-17,2024-03-18,7287.13,DE,Sedan,Theft,V1 was missing after being parked overnight,insured,15000,71,4,0,0.49
+IXRH6KRSZ,2022-11-28,2023-01-01,36334.33,NE,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,50000,75,4,0,0.73
+9MH4QX495,2023-12-11,2024-01-07,35688.17,SC,Coupe,Theft,V1 was missing after being parked overnight,insured,100000,63,5,0,0.36
+F7GDXFAE7,2024-03-27,2024-08-12,18812.73,AS,Van,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,18,3,0,0.19
+952PAXV4A,2024-01-30,2024-03-08,8855.58,KY,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,50,0,0,0.59
+YSM4YYQ34,2024-04-01,2025-03-06,5846.91,WA,Sedan,Side-impact,V2 turned left and struck the side of V1,claimant,100000,73,1,0,0.06
+UPX06LBRH,2024-01-09,2024-06-04,14279.03,IL,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,42,4,0,0.14
+B56EHO40U,2023-10-27,2024-05-04,69841.04,IL,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,100000,54,5,0,0.7
+QJ3SXGTT0,2023-03-05,2023-08-01,9440.94,MT,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,21,3,1,0.38
+5WWYLTHIN,2024-06-27,2024-11-13,94443.36,VI,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,36,3,1,0.94
+Z6PUF3EDP,2024-06-29,2025-03-01,3484.21,VI,Coupe,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,15000,27,0,0,0.23
+1RHLOE20R,2023-12-10,2024-03-20,9869.46,CO,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,61,0,0,0.39
+18JSEUO4V,2024-08-02,2025-01-22,9718.87,AK,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,62,1,0,0.19
+CXSM72UJZ,2023-07-07,2023-09-12,23845.07,SD,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,80,1,0,0.24
+2UQH6YHXH,2022-09-24,2023-08-24,5427.72,OR,Coupe,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,79,3,0,0.36
+6QBJB2NZN,2024-03-08,2025-03-04,1961.94,GA,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,15000,39,3,0,0.13
+T6293TLO1,2022-09-18,2023-04-24,22169.45,CO,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,34,1,0,0.89
+K42VJGKVE,2024-03-17,2025-02-14,14035.1,SC,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,insured,50000,24,0,0,0.28
+HF4WIQ8HL,2024-12-09,2025-09-08,8069.02,IN,Sedan,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,74,5,0,0.54
+NBD9O45FG,2023-02-23,2023-04-20,5549.31,IN,Truck,Side-impact,V2 turned left and struck the side of V1,claimant,15000,49,0,0,0.37
+Z2WZFIKR4,2024-09-12,2025-02-09,98925.13,WV,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,18,1,0,0.99
+RBXP2IU4C,2023-08-18,2023-12-27,12224.62,SD,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,42,3,0,0.24
+0AGKDMCS6,2023-09-29,2024-04-04,6476.56,IN,Van,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,39,1,0,0.43
+HHO0AS9V7,2022-10-25,2023-03-08,8402.94,IN,Van,Theft,V1 was reported stolen from insured’s driveway,insured,15000,79,2,0,0.56
+0TUZG2VG3,2022-09-20,2023-09-16,28044.34,DC,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,50000,46,5,0,0.56
+DAD38YOUG,2023-10-10,2024-09-12,8841.59,DC,Truck,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,55,4,1,0.18
+Q6FWSKLWS,2023-08-21,2023-11-20,32823.3,NV,Van,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,18,0,0,0.33
+G2EXQY886,2023-09-07,2024-04-05,31587.82,CO,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,50000,52,0,0,0.63
+UADGS5HM3,2024-04-10,2025-04-05,14946.02,OR,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,79,2,0,1.0
+557O7RCI2,2024-12-10,2025-04-14,9968.51,SC,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,50000,34,5,0,0.2
+PBQNLE7H9,2024-03-10,2024-08-22,23495.05,UT,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,79,2,1,0.94
+K8Z6R5CQM,2023-02-01,2023-11-07,64339.38,AK,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,100000,76,3,0,0.64
+Y31ZR7KQ9,2024-04-07,2024-04-22,20981.44,NY,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,25000,62,0,0,0.84
+R418ZITZH,2023-11-16,2024-02-22,35289.17,UT,Sedan,Weather Damage,V1 was damaged by falling tree during storm,insured,100000,74,0,0,0.35
+8W1QXSR97,2024-04-12,2025-01-24,20080.85,AZ,SUV,Side-impact,V2 turned left and struck the side of V1,insured,25000,50,4,0,0.8
+SVUCCPUGC,2022-07-23,2023-06-26,9454.76,MH,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,76,3,0,0.38
+99ARAU76U,2023-11-17,2024-03-28,35648.34,UT,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,64,0,0,0.71
+ECTALUC2J,2024-12-29,2025-11-11,20584.16,AZ,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,40,3,1,0.21
+H4GBLCKUH,2024-03-24,2024-08-18,4909.2,MA,Truck,Theft,V1 was missing after being parked overnight,insured,25000,41,4,0,0.2
+Y93POMV7M,2023-07-19,2023-09-18,1362.74,DE,Truck,Theft,V1 was missing after being parked overnight,insured,15000,44,3,0,0.09
+E5RS3589H,2025-02-05,2025-03-15,24497.75,NE,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,100000,74,1,0,0.24
+8LPY058E6,2022-08-16,2022-12-09,2958.99,SD,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,23,3,0,0.2
+L4H9DATO9,2022-09-12,2023-07-11,25172.66,WA,Van,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,72,3,0,0.25
+IPTNDBBCF,2025-02-02,2025-07-28,33993.27,KY,Truck,Side-impact,V2 ran a stop sign and hit the side of V1,insured,50000,19,0,0,0.68
+PTTXWGCUU,2024-02-09,2024-02-26,7268.35,SC,SUV,Theft,V1 was missing after being parked overnight,insured,15000,26,4,0,0.48
+J0LEBN52K,2023-12-04,2024-11-13,24103.49,OH,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,35,1,0,0.96
+N8QKBR9FY,2024-07-24,2024-08-31,9806.09,NE,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,15000,25,1,0,0.65
+R2CS16UUR,2023-01-22,2023-11-28,21739.9,KY,Van,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,73,5,0,0.43
+QC2VD8IQW,2022-07-06,2023-03-19,48135.98,TX,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,100000,46,2,0,0.48
+MS73D0Q0K,2022-12-26,2023-05-22,23257.64,OR,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,100000,35,2,0,0.23
+0BW2MRLLG,2024-12-17,2025-12-08,7980.84,AS,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,80,4,0,0.53
+63V1VQYLB,2024-03-29,2025-01-04,12682.87,ID,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,43,5,0,0.25
+08CMQXGYM,2022-07-12,2023-04-07,42524.56,NE,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,50000,75,3,0,0.85
+QZSS8V5X6,2022-12-01,2023-05-27,17170.47,WA,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,25000,35,2,0,0.69
+A1L1CEGOY,2022-08-31,2022-09-21,7377.45,PA,Van,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,26,5,0,0.49
+OCP8FP1K8,2023-05-20,2024-02-24,13495.07,MT,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,15000,35,0,0,0.9
+9SQAIL1YX,2025-02-14,2026-02-10,28584.6,CO,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,50000,44,3,0,0.57
+XJ3Y1XC2I,2023-12-09,2024-08-07,4230.49,IN,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,25000,71,3,0,0.17
+A4E7YCS1K,2023-12-02,2024-07-20,7266.92,WA,SUV,Side-impact,V2 turned left and struck the side of V1,claimant,25000,71,4,0,0.29
+FNC3CII1J,2024-01-03,2024-02-19,46194.01,FL,SUV,Theft,V1 was reported stolen from insured’s driveway,insured,50000,62,3,1,0.92
+NL5YHCMDC,2024-10-16,2025-04-20,80800.47,VI,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,100000,48,2,0,0.81
+XH2MECYJX,2022-07-08,2023-06-05,1666.43,VT,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,18,3,0,0.07
+LPEO8L1UV,2024-12-13,2025-11-17,18958.31,AZ,SUV,Head-on Collision,V2 entered wrong lane and collided with V1,insured,25000,41,1,0,0.76
+19L8OEXNT,2023-01-12,2023-08-16,8475.14,AZ,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,72,2,1,0.57
+TV3SY80W5,2024-04-16,2025-02-12,48406.86,TX,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,29,1,0,0.97
+ZSV5WQHJ2,2023-12-16,2024-09-11,5704.89,AK,SUV,Theft,V1 was reported stolen from insured’s driveway,claimant,15000,77,3,1,0.38
+J2JO2ILKB,2023-12-17,2024-06-22,7731.97,VT,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,62,3,1,0.31
+32RV23U65,2024-04-07,2024-10-26,10364.19,GA,Van,Side-impact,V2 turned left and struck the side of V1,claimant,25000,52,3,0,0.41
+4J90VB1C4,2022-09-15,2022-09-30,2955.99,WV,SUV,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,19,2,0,0.2
+M72ZKEOCE,2024-10-26,2025-01-11,23968.0,WA,SUV,Side-impact,V2 turned left and struck the side of V1,insured,50000,46,4,0,0.48
+7QUF7P2R6,2022-12-18,2023-12-06,13079.74,AS,Van,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,50000,58,4,0,0.26
+405G00R5Y,2024-08-18,2025-01-04,46396.35,UT,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,37,4,1,0.93
+FVH56RDO3,2023-12-10,2024-07-26,8407.17,KY,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,26,1,0,0.56
+DFNS88M7Z,2024-01-27,2025-01-07,48946.21,WA,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,35,5,1,0.98
+G8SZE26R2,2023-09-19,2024-07-28,1908.67,WA,SUV,Theft,V1 was missing after being parked overnight,claimant,25000,67,5,1,0.08
+0EP8V1UC8,2023-07-25,2024-06-13,8640.29,DC,Sedan,Side-impact,V2 turned left and struck the side of V1,insured,25000,34,1,0,0.35
+GWJ9S8U28,2023-06-10,2023-06-21,10104.53,IN,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,25000,49,3,0,0.4
+MAUHUHXUN,2022-11-11,2023-07-28,6056.69,ND,Coupe,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,40,3,0,0.4
+96JDLM61Y,2022-06-28,2022-10-18,12209.74,UT,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,25000,72,1,0,0.49
+VQGUWDF1S,2023-03-04,2024-01-13,8356.8,WV,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,44,4,0,0.56
+EH3366SQM,2024-07-02,2024-12-31,6887.46,UT,Truck,Theft,V1 was missing after being parked overnight,insured,25000,59,5,0,0.28
+55KCMG2K8,2024-07-31,2025-03-21,3767.81,DE,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,15000,30,0,0,0.25
+MT8AM1KBW,2024-01-10,2024-08-29,49868.87,SD,SUV,Backing Collision,V2 was behind V1 when it began backing up,claimant,100000,40,4,0,0.5
+GPMTE1EL8,2024-10-07,2025-02-16,41817.85,CO,Coupe,Weather Damage,V1 was damaged by falling tree during storm,claimant,100000,36,5,1,0.42
+D5JGK546D,2022-11-17,2023-04-09,45751.92,KY,Van,Theft,V1 was missing after being parked overnight,insured,50000,61,5,1,0.92
+TQW8DO3PX,2023-06-29,2024-02-18,48463.95,VT,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,46,4,1,0.97
+QB8KH4PJY,2023-06-27,2023-08-17,62856.61,AL,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,59,4,0,0.63
+PKRVOCSQO,2024-04-11,2024-06-30,49126.65,VI,SUV,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,50000,77,3,1,0.98
+881EN699F,2023-04-17,2023-11-29,19164.44,OR,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,25000,71,1,0,0.77
+IZG1NAT0A,2024-12-24,2025-01-11,23433.91,IN,Van,Theft,V1 was reported stolen from insured’s driveway,claimant,50000,50,4,1,0.47
+H6C6IWMGV,2023-08-05,2024-05-11,10774.34,IL,Van,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,56,0,0,0.43
+02PAJN32I,2024-06-20,2025-03-26,31210.09,SD,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,61,4,0,0.62
+6KNPXW4NS,2023-03-25,2023-04-25,36929.53,MA,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,23,5,0,0.74
+30JNSPSKT,2022-11-25,2023-07-11,21999.67,MT,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,76,2,1,0.88
+D0SQPZYGW,2022-12-15,2023-01-23,9346.66,WA,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,claimant,50000,50,2,0,0.19
+H8XAZ8J2P,2022-09-11,2023-01-06,3944.15,ND,Sedan,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,25000,54,0,0,0.16
+ALT4U6O3L,2024-04-20,2024-10-28,6412.69,SD,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,78,3,0,0.13
+OJ9BMAY74,2023-02-11,2023-10-25,75431.71,WA,Coupe,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,43,2,1,0.75
+CUTREURFM,2024-04-09,2024-11-23,17147.08,IL,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,38,1,0,0.34
+OVVT2IS2J,2022-10-02,2022-12-18,1118.73,WA,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,22,5,0,0.04
+F5JCDZ93I,2023-09-27,2024-06-03,8326.96,DE,Sedan,Side-impact,V2 ran a stop sign and hit the side of V1,insured,25000,73,3,0,0.33
+MSLSLEKFO,2023-11-09,2024-01-08,12213.6,IN,Sedan,Backing Collision,V1 struck V2 while reversing from parking spot,claimant,15000,50,2,1,0.81
+L785HSZDI,2022-08-27,2023-01-20,10889.64,NY,Van,Theft,V1 was missing after being parked overnight,insured,25000,47,2,0,0.44
+XCX7LY6YV,2024-09-19,2025-04-29,97364.3,IL,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,100000,33,5,1,0.97
+P8VO57KP4,2024-09-07,2024-11-07,13762.0,DC,Van,Head-on Collision,V2 entered wrong lane and collided with V1,claimant,100000,73,3,0,0.14
+3AX743VC2,2023-08-13,2024-06-15,19932.69,WV,Truck,Backing Collision,V1 struck V2 while reversing from parking spot,insured,100000,48,4,0,0.2
+DE12WUW60,2023-08-27,2024-08-12,21080.43,AK,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,25000,30,4,0,0.84
+MOWIHYBFG,2023-01-18,2023-06-28,21436.55,WA,Van,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,29,1,0,0.43
+BRL414CJF,2025-02-02,2025-04-13,12788.54,CT,Truck,Theft,V1 was reported stolen from insured’s driveway,insured,50000,52,0,0,0.26
+N10H57S4X,2023-02-13,2023-11-15,10291.7,AS,Coupe,Rear-end Collision,V2 failed to stop and struck V1 from behind,claimant,50000,78,2,0,0.21
+AWQDUILY7,2023-12-01,2024-07-31,2955.99,WA,Van,Theft,V1 was reported stolen from insured’s driveway,insured,15000,35,0,0,0.2
+CEM8ML7K7,2024-07-17,2025-03-22,12748.45,WA,Van,Theft,V1 was missing after being parked overnight,claimant,25000,40,2,1,0.51
+VGZ38M7D5,2023-05-02,2023-12-01,11469.52,CO,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,100000,75,5,0,0.11
+63RH5U3VV,2022-11-23,2023-09-15,7113.3,AK,SUV,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,48,4,0,0.47
+U2LYDKG2D,2023-03-27,2023-11-17,10641.18,NE,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,15000,25,1,0,0.71
+BZ4GJHJJ3,2022-12-20,2023-03-25,12665.27,IL,Coupe,Backing Collision,V2 was behind V1 when it began backing up,insured,15000,63,3,0,0.84
+QF78OSLQB,2023-05-21,2023-12-26,4540.36,AS,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,15000,28,5,0,0.3
+TNBBBCPWF,2024-06-24,2025-02-12,33764.06,IN,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,50000,24,0,0,0.68
+TEFX8XIJP,2022-06-28,2023-05-29,93250.9,ND,SUV,Theft,V1 was missing after being parked overnight,claimant,100000,74,2,1,0.93
+71M00LQRL,2023-11-30,2024-03-08,41182.22,WV,Sedan,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,40,5,1,0.82
+ZU6O2A2X1,2024-09-25,2025-06-20,6303.04,CO,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,50000,64,3,1,0.13
+WDUG5L0MR,2024-10-24,2025-06-15,8518.86,VI,Truck,Backing Collision,V2 was behind V1 when it began backing up,claimant,50000,54,3,0,0.17
+JK7LCWQTH,2023-12-13,2024-03-28,64476.23,MT,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,100000,32,3,0,0.64
+6YVFWBZY7,2024-05-14,2024-08-18,3924.63,CO,Coupe,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,57,1,0,0.16
+V7Q7XX1OY,2024-09-21,2025-04-15,14367.81,DE,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,25000,19,3,0,0.57
+YH73YULSS,2022-12-06,2023-07-23,8456.89,NE,Truck,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,43,3,1,0.34
+U2NU4H6FQ,2024-12-24,2025-01-06,17434.12,TX,Van,Backing Collision,V2 was behind V1 when it began backing up,insured,50000,29,2,0,0.35
+80JG2YJJ5,2022-09-29,2023-02-06,36174.16,VT,Van,Head-on Collision,V2 crossed centerline and hit V1 head-on,claimant,50000,74,3,0,0.72
+T95OST10Z,2022-08-29,2023-03-25,1643.62,ND,Coupe,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,24,2,0,0.11
+D8WL2IKBU,2023-09-11,2023-12-11,48621.3,OR,SUV,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,56,2,1,0.97
+O0JPCE37R,2024-01-27,2025-01-22,21851.85,MT,Coupe,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,52,1,0,0.87
+ND1GAFUNH,2024-05-31,2024-10-09,2274.83,MH,SUV,Side-impact,V2 ran a stop sign and hit the side of V1,insured,15000,61,1,0,0.15
+GBIT6RBEW,2024-08-12,2025-03-07,17293.34,AL,Sedan,Head-on Collision,V2 crossed centerline and hit V1 head-on,insured,25000,36,0,0,0.69
+6ZAZYXW1C,2024-02-16,2024-06-25,10283.21,UT,Van,Backing Collision,V2 was behind V1 when it began backing up,claimant,15000,47,3,0,0.69
+92S2E6LZK,2024-02-14,2024-08-12,20699.89,WV,Sedan,Theft,V1 was reported stolen from insured’s driveway,claimant,25000,29,2,1,0.83
+EF864BWX0,2024-10-28,2024-12-30,97660.5,NV,Sedan,Backing Collision,V2 was behind V1 when it began backing up,insured,100000,21,5,0,0.98
+4GNYA55HJ,2022-09-10,2023-06-21,7792.77,KY,Coupe,Backing Collision,V1 struck V2 while reversing from parking spot,insured,25000,63,4,0,0.31
+FF55DEPU0,2022-11-29,2023-04-02,17397.79,TX,Coupe,Side-impact,V2 turned left and struck the side of V1,claimant,25000,66,2,0,0.7
+OSEP720OE,2023-09-23,2024-01-16,22372.9,AL,Sedan,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,insured,25000,49,5,0,0.89
+PIAGWKR37,2025-02-09,2025-05-16,5696.68,ND,Sedan,Weather Damage,Hailstorm caused significant roof and hood damage to V1,insured,50000,30,4,0,0.11
+CMQ2AJLTO,2022-09-11,2023-02-07,6054.2,MT,Van,Head-on Collision,V2 entered wrong lane and collided with V1,insured,15000,30,0,0,0.4
+BAXIAQJKB,2024-04-17,2024-05-23,19760.06,IN,SUV,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,25000,50,2,1,0.79
+GX9I0TUEY,2024-05-11,2024-10-27,36176.42,OR,SUV,Weather Damage,V1 was damaged by falling tree during storm,claimant,50000,18,0,0,0.72
+A64TCWBBK,2024-07-30,2024-08-09,6289.06,OH,Truck,Rear-end Collision,V2 rear-ended V1 while stopped at a red light,claimant,50000,66,1,0,0.13
+ZQYJM3PPS,2023-11-05,2023-12-12,10441.71,OH,SUV,Theft,V1 was missing after being parked overnight,insured,15000,58,5,0,0.7
+LKY7TXECE,2022-12-04,2023-10-27,3289.39,WV,Truck,Rear-end Collision,V2 failed to stop and struck V1 from behind,insured,15000,79,2,0,0.22
+6VMJOBRU2,2024-09-21,2025-03-16,50484.91,SD,Van,Weather Damage,Hailstorm caused significant roof and hood damage to V1,claimant,100000,62,3,1,0.5
+5XTJ98KSF,2025-02-05,2025-07-16,4679.97,UT,SUV,Weather Damage,V1 was damaged by falling tree during storm,insured,50000,75,3,0,0.09
