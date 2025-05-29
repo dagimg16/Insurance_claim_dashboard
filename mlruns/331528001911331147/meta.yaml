@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/dagim/project_4/Insurance_claim_dashboard/mlruns/331528001911331147
+creation_time: 1748366785610
+experiment_id: '331528001911331147'
+last_update_time: 1748366785610
+lifecycle_stage: active
+name: fraud_detection_model_comparison

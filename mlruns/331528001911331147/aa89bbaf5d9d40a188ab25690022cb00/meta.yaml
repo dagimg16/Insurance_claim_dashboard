@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dagim/project_4/Insurance_claim_dashboard/mlruns/331528001911331147/aa89bbaf5d9d40a188ab25690022cb00/artifacts
+end_time: 1748366811176
+entry_point_name: ''
+experiment_id: '331528001911331147'
+lifecycle_stage: active
+run_id: aa89bbaf5d9d40a188ab25690022cb00
+run_name: Random Forest
+run_uuid: aa89bbaf5d9d40a188ab25690022cb00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748366804706
+status: 3
+tags: []
+user_id: dagim

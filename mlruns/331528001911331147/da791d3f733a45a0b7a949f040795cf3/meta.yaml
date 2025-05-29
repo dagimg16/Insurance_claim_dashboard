@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dagim/project_4/Insurance_claim_dashboard/mlruns/331528001911331147/da791d3f733a45a0b7a949f040795cf3/artifacts
+end_time: 1748366803652
+entry_point_name: ''
+experiment_id: '331528001911331147'
+lifecycle_stage: active
+run_id: da791d3f733a45a0b7a949f040795cf3
+run_name: Logistic Regression
+run_uuid: da791d3f733a45a0b7a949f040795cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748366786452
+status: 3
+tags: []
+user_id: dagim
