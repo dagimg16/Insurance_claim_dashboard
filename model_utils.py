@@ -1,6 +1,8 @@
 import joblib
 import numpy as np
 import pandas as pd
+import streamlit.components.v1 as components
+import shap
 
 def load_model(path="model/fraud_model_XGB.pkl"):
     return joblib.load(path)
@@ -10,6 +12,10 @@ def predict_fraud(model, df_row, threshold=0.3):
     return (proba >= threshold).astype(int), proba
 
 EXPECTED_COLUMNS = joblib.load("model/expected_model_columns.pkl") 
+
+def load_shap_explainer(model):
+    explainer = shap.TreeExplainer(model)
+    return explainer
 
 def preprocess_input(df_row):
     df = df_row.copy()
@@ -34,3 +40,7 @@ def preprocess_input(df_row):
     df = df[EXPECTED_COLUMNS]
 
     return df
+
+def st_shap(plot, height=None):
+    shap_html = f"<head>{shap.getjs()}</head><body>{plot.html()}</body>"
+    components.html(shap_html, height=height)
