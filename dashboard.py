@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import shap
 from db_utils import get_claim_by_id, update_liability_in_db
 from model_utils import load_model, predict_fraud, preprocess_input, load_shap_explainer, st_shap
+from adjuster_ai_assistant import qa_chain
 
 st.set_page_config(
     page_title="🔍 Insurance Claim Processor",
@@ -106,19 +107,26 @@ with col[0]:
                 fig, ax = plt.subplots()
                 shap.summary_plot(shap_values, features=features, feature_names=feature_names, plot_type="bar", max_display = 5, show=False)
                 st.pyplot(fig)
-
+                st.markdown("---")
                 st.subheader("🧩 Detailed SHAP Force Plot")
 
-            #     shap_html = shap.force_plot(
-            #     explainer.expected_value,
-            #     shap_values[0],
-            #     features.iloc[0],
-            #     feature_names=features.columns,
-            #     matplotlib=False
-            # )
-                
-                # visualize the training set predictions
-                st_shap(shap.force_plot(explainer.expected_value, shap_values, features), 400)
-
+                st_shap(shap.force_plot(explainer.expected_value, shap_values, features), 130)
+                st.markdown("---")
+                st.subheader("🚗 Auto Insurance Adjuster Assistant")
+                st.markdown("""
+                                Ask me anything about:
+                                - Claims Handling Procedures 📝
+                                - Liability Rules ⚖️
+                                - Total Loss (TL) Thresholds 🚗
+                                - State-Specific Guidelines 🌎
+                                """)
+                user_question = st.text_input("🧠 What would you like to know?", "")
+                if st.button("Ask"):
+                    if user_question:
+                        with st.spinner('Searching the adjuster manual...'):
+                            response = qa_chain.run(user_question)
+                        st.success(response)
+                    else:
+                        st.warning("Please type a question!")
         else:
             st.warning("❗ No claim found with that ID.")
