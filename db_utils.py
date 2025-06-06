@@ -39,3 +39,13 @@ def update_liability_in_db(claim_id, insured_liability, claimant_liability):
             'claim_id': claim_id
         })
         conn.commit()
+
+def get_matching_claim_id(query, params):
+    conn_str = f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{database}"
+    engine = create_engine(conn_str)
+
+
+    with engine.connect() as conn:
+        selected_claim_id = pd.read_sql(query, conn, params=params)
+
+    return selected_claim_id       
