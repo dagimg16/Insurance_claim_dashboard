@@ -59,13 +59,13 @@ Fraud Score was computed and claims were labeled as fraud (1) if exceeding a thr
 
 **Evaluation Metrics**:
 
-![Accuracy and F1 Score]()
+![Accuracy and F1 Score](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/accuracy_and_f1_score.png)
+
 Accuracy and F1 Score (main focus due to fraud class imbalance)
 
-![Precision and Recall]()
+![Precision and Recall](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/recall_and_precision.png)
+
 Precision and Recall
-
-
 **Why XGBoost**:
 
 * Best F1 Score: 0.83
@@ -221,7 +221,12 @@ streamlit run dashboard.py
 ```
 
 ## 📷 Screenshots
-![Screenshot of home page]()
+
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/homepage.png)
+Search a claim by ID
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_screen.png)
+See the claim profile loaded, get fraud prediction and SHAP explanation and ask a policy-related question to the AI Assistant and see an instant answer.
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_details.png)
 
 
 
