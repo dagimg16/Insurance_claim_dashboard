@@ -59,10 +59,12 @@ Fraud Score was computed and claims were labeled as fraud (1) if exceeding a thr
 
 **Evaluation Metrics**:
 
-![Accuracy and F1 Score]()
+![Accuracy and F1 Score](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/accuracy_and_f1_score.png)
+
 Accuracy and F1 Score (main focus due to fraud class imbalance)
 
-![Precision and Recall]()
+![Precision and Recall](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/recall_and_precision.png)
+
 Precision and Recall
 
 
@@ -221,8 +223,11 @@ streamlit run dashboard.py
 ```
 
 ## 📷 Screenshots
-![Screenshot of home page]()
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/homepage.png)
 
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_details.png)
+
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_screen.png)
 
 
 ## 📄 License
