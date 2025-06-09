@@ -224,10 +224,11 @@ streamlit run dashboard.py
 
 ## 📷 Screenshots
 ![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/homepage.png)
-
+Search a claim by ID
+![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_screen.png)
+See the claim profile loaded, get fraud prediction and SHAP explanation and ask a policy-related question to the AI Assistant and see an instant answer.
 ![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_details.png)
 
-![Screenshot of home page](https://github.com/dagimg16/Insurance_claim_dashboard/blob/development/screenshots/claim_screen.png)
 
 
 ## 📄 License
